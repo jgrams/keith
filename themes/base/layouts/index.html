@@ -1,5 +1,11 @@
 {{- define "main" }}
     Welcome to the Homepage
+    {{ range .Site.Pages }}
+    {{.}}
+    {{ end }}
+    {{ range first 5 (where .Site.Pages "Section" "posts").ByDate }}
+        {{ partial "preview.html" . }}
+    {{ end }}
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 {{- end }}  
