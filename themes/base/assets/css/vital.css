@@ -1,4 +1,13 @@
+:root {
+  --accent-color: #1e90ff;
+  --background-color: lightblue;
+}
+
+.logo {text-align: center;
+border-bottom: 5px solid var(--accent-color);} 
+
+
 body {
-    background: pink;
+    background: var(--background-color);
     font-size: 20px;
 }
