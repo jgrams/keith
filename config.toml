@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://loving-lovelace-95c885.netlify.app/"
 languageCode = "en-us"
 title = "KPG Pacific Crest Trail"
 theme = "base"
