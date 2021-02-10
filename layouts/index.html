@@ -1,0 +1,9 @@
+{{- define "main" }}
+    <h1>{{ .Title }}</h1>
+    <div>{{ .Content }}</div>   
+    {{ range .Sections }}    
+        {{ range first 5 .Pages.ByDate }}
+            {{ partial "preview.html" . }}
+        {{ end }}
+    {{ end }}
+{{- end }}  
