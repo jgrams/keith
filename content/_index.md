@@ -1,3 +1,1 @@
-
-
 Hi, I'm Keith! This I'm hiking the Pacific Crest Trail this year. It's 2021, I quit my job, and I'm ready to live in the woods for months in order to learn exactly how wet and cold I can possibly get.

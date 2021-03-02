@@ -7,11 +7,19 @@
     padding: .5rem 1rem 1rem 1rem;
 }
 
-.preview h2 {
+body {
+    max-width: 80%;
+    margin: auto;
     text-align: center;
 }
 
-.home {
-    max-width: 80%;
-    margin: auto;
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+.foot-logo {
+    max-width: 4rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
