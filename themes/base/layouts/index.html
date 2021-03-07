@@ -6,6 +6,15 @@
     {{ range first 5 (where .Site.Pages "Section" "posts").ByDate }}
         {{ partial "preview.html" . }}
     {{ end }}
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
+    <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", user => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      </script>
 {{- end }}  
