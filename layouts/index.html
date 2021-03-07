@@ -1,6 +1,12 @@
 {{- define "main" }}
     <h1>{{ .Title }}</h1>
-    <div>{{ .Content }}</div>   
+    <div class="flex">
+        <div class="image">    
+            {{ $image := resources.Get "keithpic.jpg" }}
+            {{ partial "image.html" $image }}
+        </div>
+        {{ .Content }}
+    </div>  
     {{ range .Sections }}    
         {{ range first 5 .Pages.ByDate }}
             {{ partial "preview.html" . }}
