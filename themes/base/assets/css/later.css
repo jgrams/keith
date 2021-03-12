@@ -22,6 +22,7 @@ body {
     max-width: 4rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
+
 }
 
 .image {
@@ -31,6 +32,16 @@ body {
 
 .flex  {
     display: flex;
+}
+
+.center  {    
     align-items: center;
+}
+
+.around  {
+    justify-content: space-around;
+}
+
+.mb1  {
     margin-bottom: 1rem;
 }

@@ -1,6 +1,6 @@
 {{- define "main" }}
     <h1>{{ .Title }}</h1>
-    <div class="flex">
+    <div class="flex center mb1">
         <div class="image">    
             {{ $image := resources.Get "keithpic.jpg" }}
             {{ partial "image.html" $image }}
