@@ -8,7 +8,7 @@
         {{ .Content }}
     </div>  
     {{ range .Sections }}    
-        {{ range first 5 .Pages.ByDate }}
+        {{ range first 5 .Pages.ByDate.Reverse }}
             {{ partial "preview.html" . }}
         {{ end }}
     {{ end }}
