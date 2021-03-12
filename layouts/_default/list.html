@@ -1,0 +1,9 @@
+{{- define "main" }}
+    <h1>{{ .Title }}</h1>
+    <div>{{ .Content }}</div>
+    {{ range where .Site.Pages "Section" "posts" }}
+        {{ range .Pages.ByDate.Reverse }}
+            {{ partial "preview.html" . }}
+        {{ end }}
+    {{ end }}
+{{- end }}

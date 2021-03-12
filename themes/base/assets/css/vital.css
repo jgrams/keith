@@ -3,11 +3,42 @@
   --background-color: lightblue;
 }
 
-.logo {text-align: center;
-border-bottom: 5px solid var(--accent-color);} 
-
+.logo {
+  text-align: center;
+  border-bottom: 5px solid var(--accent-color);
+} 
 
 body {
     background: var(--background-color);
     font-size: 20px;
+}
+
+.preview {
+  background-color: lightgreen;
+  border-radius: 1rem;
+  border: .25rem solid var(--accent-color);
+  width: 70%;
+  margin: 1rem auto;
+  padding: .5rem 1rem 1rem 1rem;
+}
+
+.preview h2 {
+  margin-top: 0;
+}
+
+body {
+  max-width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+.foot-logo {
+  max-width: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }

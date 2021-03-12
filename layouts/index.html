@@ -1,7 +1,7 @@
 {{- define "main" }}
     <h1>{{ .Title }}</h1>
     <div>{{ .Content }}</div>   
-    {{ range .Sections }}    
+    {{ range where .Site.Pages "Section" "posts" }}    
         {{ range first 5 .Pages.ByDate }}
             {{ partial "preview.html" . }}
         {{ end }}
