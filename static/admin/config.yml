@@ -5,9 +5,9 @@ media_folder: static/img
 public_folder: /img
 publish_mode: editorial_workflow
 collections:
-  - name: 'post'
-    label: 'Post'
-    folder: 'content/posts'
+  - name: 'reports'
+    label: 'Reports'
+    folder: 'content/reports'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
