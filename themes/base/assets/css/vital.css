@@ -3,7 +3,7 @@
   --background-color: lightblue;
 }
 
-.logo {
+.header {
   text-align: center;
   border-bottom: 5px solid var(--accent-color);
 } 
@@ -41,4 +41,9 @@ body {
   max-width: 4rem;
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+
+.icon svg {
+  max-width: 10rem;
+  max-height: 10rem;
 }

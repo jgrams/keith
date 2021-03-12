@@ -1,10 +1,11 @@
-
-<div class="header">
-    <div class="logo"><p style="font-size:50px"><b>KPG on the PCT!!!</b></p></div>
-    <div class="menu">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        <a class="menu-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-        {{ end }}
+<div class="header flex center">
+    <div class="icon">
+        {{ $icon := resources.Get "icon.svg" }}
+        {{ $icon.Content | safeHTML }}
+    </div>
+    <div>
+        <p style="font-size:4rem">
+            <b>on the PCT!!!</b>
+        </p>
     </div>
 </div>
