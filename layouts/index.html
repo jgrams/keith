@@ -2,7 +2,7 @@
     <h1>{{ .Title }}</h1>
     <div>{{ .Content }}</div>   
     {{ range where .Site.Pages "Section" "reports" }}    
-        {{ range first 5 .Pages.ByDate }}
+        {{ range first 5 .Pages.ByDate.Reverse }}
             {{ partial "preview.html" . }}
         {{ end }}
     {{ end }}

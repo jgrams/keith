@@ -22,4 +22,26 @@ body {
     max-width: 4rem;
     margin-top: 2rem;
     margin-bottom: 2rem;
+
+}
+
+.image {
+    max-width: 20%;
+    height: auto;
+}
+
+.flex  {
+    display: flex;
+}
+
+.center  {    
+    align-items: center;
+}
+
+.around  {
+    justify-content: space-around;
+}
+
+.mb1  {
+    margin-bottom: 1rem;
 }

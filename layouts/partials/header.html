@@ -1,8 +1,8 @@
-<div class="header flex center">
-    <div class="icon">
-        {{ $icon := resources.Get "icon.svg" }}
+<div class="header flex center justify">
+    {{ $icon := resources.Get "icon.svg" }}
+    <a class="icon" href="/">
         {{ $icon.Content | safeHTML }}
-    </div>
+    </a>
     <div>
         <p style="font-size:4rem">
             <b>on the PCT!!!</b>

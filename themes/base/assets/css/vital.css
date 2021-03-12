@@ -47,3 +47,28 @@ body {
   max-width: 10rem;
   max-height: 10rem;
 }
+
+.image {
+  max-width: 20%;
+  height: auto;
+}
+
+.flex  {
+  display: flex;
+}
+
+.center  {    
+  align-items: center;
+}
+
+.justify  {
+  justify-content: center;
+}
+
+.around  {
+  justify-content: space-around;
+}
+
+.mb1  {
+  margin-bottom: 1rem;
+}
