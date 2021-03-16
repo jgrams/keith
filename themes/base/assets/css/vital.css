@@ -43,9 +43,9 @@ body {
   margin-bottom: 2rem;
 }
 
-.icon svg {
-  max-width: 10rem;
-  max-height: 10rem;
+.icon img {
+  max-height: 25vh;
+  max-width: 25vw;
 }
 
 .image {

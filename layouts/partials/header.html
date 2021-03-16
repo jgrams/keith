@@ -1,11 +1,6 @@
 <div class="header flex center justify">
-    {{ $icon := resources.Get "icon.svg" }}
+    {{ $icon := resources.Get "keith.png" }}
     <a class="icon" href="/">
-        {{ $icon.Content | safeHTML }}
+        {{ partial "image.html" $icon }}
     </a>
-    <div>
-        <p style="font-size:4rem">
-            <b>on the PCT!!!</b>
-        </p>
-    </div>
 </div>
