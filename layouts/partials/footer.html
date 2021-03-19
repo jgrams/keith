@@ -1,9 +1,10 @@
 <div class="footer flex center around">
     {{ $image := resources.Get "pct_logo.png" }}
+    {{ $mapimage := resources.Get "map.png" }}
     <a href="https://www.pcta.org/" class="foot-logo" target="_blank">
         {{ partial "image.html" $image }}
     </a>
-    <div>
-        <a href="mailtoplaceholder ">Contact Me! (at) placeholder@gmail.com</a>
-    </div>
+    <a href="https://share.garmin.com/kpgonthepct" class="icon">
+        {{ partial "image.html" $mapimage }}
+    </a>
 </div>
