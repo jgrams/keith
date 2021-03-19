@@ -1,8 +1,0 @@
----
-title: I'm Still Inside, But It's Started
-date: 2021-03-07T01:02:29.497Z
-description: I'm in a hotel, waiting for some good news.
----
-This is the start, I'm in Palm Springs, getting ready to walk.
-
-![Pines](/images/pines.jpeg)
