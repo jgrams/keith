@@ -2,3 +2,5 @@ baseURL = "https://www.keithgramila.com/"
 languageCode = "en-us"
 title = "KPG Pacific Crest Trail"
 theme = "base"
+[params]
+    start = "2021-03-20"

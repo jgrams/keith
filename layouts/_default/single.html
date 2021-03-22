@@ -1,4 +1,8 @@
 {{- define "main" }}
-    <h2>{{ .Title }}</h2>
+    {{ $start := $.Site.Params.start | time }}
+    {{ $diff := .Params.Date.Sub $start }}
+    {{ $days := int (div $diff.Hours 24) }}
+    <h2>Day {{ $days }}: {{ .Title }}</h2>
+    {{ partial "technical.html" . }}
     {{ .Content }}
 {{- end }}
