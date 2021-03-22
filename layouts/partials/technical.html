@@ -1,7 +1,9 @@
 <div>
     <button id="button" onclick='toggle("details")'>See Technical Details.</button>
     <div id="details" class="invisible">
-        <h4>Total miles: {{ .Params.totalMiles }}</h4>
+        {{ if .Params.totalMiles }}
+            <h4>Total miles: {{ .Params.totalMiles }}</h4>
+        {{ end }}
     </div>
     <script>
         function toggle(target) {

@@ -1,6 +1,6 @@
 {{- define "main" }}
     {{ $start := $.Site.Params.start | time }}
-    {{ $now  := .Params.date }}
+    {{ $now  := .Params.date | time }}
     {{ $diff := $now.Sub $start }}
     {{ $days := int (div $diff.Hours 24) }}
     <h2>Day {{ $days }}: {{ .Title }}</h2>
