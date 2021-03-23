@@ -15,11 +15,6 @@
   padding: .5rem 1rem 1rem 1rem;
 }
 
-.footer {
-  display: flex;
-  justify-content: center;
-}
-
 .foot-logo img {
   max-width: 4rem;
   margin-top: 2rem;
@@ -78,11 +73,6 @@ body {
   text-align: center;
 }
 
-.footer {
-  display: flex;
-  justify-content: center;
-}
-
 .foot-logo {
   max-width: 4rem;
   margin-top: 2rem;
@@ -106,10 +96,6 @@ body {
 
 .flex  {
   display: flex;
-}
-
-.center  {
-  align-items: center;
 }
 
 .justify  {
@@ -161,4 +147,8 @@ button a {
   stroke: var(--accent-color);
   stroke-width: 1rem;
   fill: var(--arrow-accent);
+}
+
+.arrow svg {
+  display: block;
 }

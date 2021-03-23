@@ -2,7 +2,7 @@
     {{ partial "daytitle.html" . }}
     {{ .Content }}
     {{ partial "technical.html" . }}
-    <div class="flex justify">
+    <div class="flex justify center">
         {{with .Site.RegularPages.Prev . }}
             <a class="arrow" href="{{ .RelPermalink }}">
                 {{ $image := resources.Get "leftarrow.svg" }}
