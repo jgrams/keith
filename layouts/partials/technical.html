@@ -1,14 +1,39 @@
 <div>
-    <button id="button" onclick='toggle("details")'>See Technical Details.</button>
-    <div id="details" class="invisible">
-        {{ if .Params.totalMiles }}
-            <h4>Total miles: {{ .Params.totalMiles }}</h4>
+    {{ if .Params.miles }}
+    <button id="button" class="m4" onclick="toggle('details', 'visible')">Toggle Technical Details</button>
+    <div hidden id="details" class="align-left">
+        {{ if .Params.miles }}
+            <h4>Total miles: {{ .Params.miles }}</h4>
+        {{ end }}
+        {{ if .Params.breakfast }}
+            <h4>Breakfast:</h4>
+            <p>
+                {{ .Params.breakfast }}
+                <img src="{{ .Params.breakfastImage }} ">
+            </p>
+        {{ end }}
+        {{ if .Params.lunch }}
+            <h4>Lunch:</h4>
+            <p>
+                {{ .Params.lunch }}
+            </p>
+        {{ end }}
+        {{ if .Params.dinner }}
+            <h4>Dinner:</h4>
+            <p>
+                {{ .Params.dinner }}
+            </p>
         {{ end }}
     </div>
-    <script>
-        function toggle(target) {
-            element = document.getElementById(target);
-            console.log();
-        }
-    </script>
+    {{ end }}
 </div>
+<script>
+    function toggle(target, cls) {
+        element = document.getElementById(target);
+        if (element.classList.contains(cls)) {
+            element.classList.remove(cls);
+        } else {
+            element.classList.add(cls);
+        }
+    }
+</script>

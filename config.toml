@@ -4,3 +4,5 @@ title = "KPG Pacific Crest Trail"
 theme = "base"
 [params]
     start = "2021-03-20"
+    button = "Go Back Home"
+    buttonLink = "/"

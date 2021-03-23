@@ -1,5 +1,5 @@
 ---
-title: Started from under the bridge now we here
+title: Started from under the bridge now we're here
 date: 2021-03-23T03:11:57.250Z
 description: I really love these turn around and see where I’ve walked posts huh
 ---
