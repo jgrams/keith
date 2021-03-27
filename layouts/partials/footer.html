@@ -4,7 +4,12 @@
     <a href="https://www.pcta.org/" class="foot-logo" target="_blank">
         {{ partial "image.html" $image }}
     </a>
-    <a href="https://share.garmin.com/kpgonthepct" class="icon" target="_blank">
+    <a href="https://share.garmin.com/kpgonthepct" class="icon flex center keepup" target="_blank">
+        <div class="div">Keep Up</div>
+        {{ $image := resources.Get "rightarrow.svg" }}
+        <div class="arrow footer-arrow">
+            {{ $image.Content | safeHTML }}
+        </div>
         {{ partial "image.html" $mapimage }}
     </a>
 </div>

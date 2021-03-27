@@ -1,5 +1,6 @@
 :root {
   --accent-color: #0054d2;
+  --light-accent-color: #1966d8;
   --background-color: lightblue;
   --secondary-color: #84caca;
   --text-highlight-color: #f0f2f4;
@@ -145,9 +146,18 @@ button a {
 
 .arrow {
   width: 4rem;
-  stroke: var(--accent-color);
   stroke-width: 1rem;
+
+}
+
+.bordered-arrow {
+  stroke: var(--accent-color);
   fill: var(--arrow-accent);
+}
+
+.footer-arrow {
+  stroke: var(--accent-color);
+  fill: var(--light-accent-color);
 }
 
 .arrow svg {
