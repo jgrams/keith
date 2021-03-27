@@ -3,18 +3,18 @@
     {{ .Content }}
     {{ partial "technical.html" . }}
     <div class="flex justify center">
-        {{with .Site.RegularPages.Prev . }}
+        {{ with .Site.RegularPages.Prev . }}
             <a class="arrow" href="{{ .RelPermalink }}">
                 {{ $image := resources.Get "leftarrow.svg" }}
                 {{ $image.Content | safeHTML }}
             </a>
-        {{end}}
+        {{ end }}
         {{ partial "seemore.html" . }}
-        {{with .Site.RegularPages.Next . }}
+        {{ with .Site.RegularPages.Next . }}
             <a class="arrow" href="{{ .RelPermalink }}">
                 {{ $image := resources.Get "rightarrow.svg" }}
                 {{ $image.Content | safeHTML }}
             </a>
-        {{end}}
+        {{ end }}
     </div>
 {{- end }}
