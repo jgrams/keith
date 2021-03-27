@@ -1,0 +1,7 @@
+---
+title: Those views
+date: 2021-03-24T02:16:49.908Z
+---
+Not more to say
+
+![View from fosters peak ](/images/a5f553d4-265f-4fd0-8f2a-c529427b2c00.jpeg "View from fosters peak ")

@@ -3,6 +3,7 @@
     {{ .Content }}
     {{ partial "technical.html" . }}
     <div class="flex justify center">
+<<<<<<< HEAD
         {{with .Site.RegularPages.Prev . }}
             <a class="arrow bordered-arrow" href="{{ .RelPermalink }}">
                 {{ $image := resources.Get "leftarrow.svg" }}
@@ -16,5 +17,8 @@
                 {{ $image.Content | safeHTML }}
             </a>
         {{end}}
+=======
+        {{ partial "arrowedseemore.html" . }}
+>>>>>>> 4dd1f650d0c93562d21f98f362b2ca5b8fd6fe58
     </div>
 {{- end }}

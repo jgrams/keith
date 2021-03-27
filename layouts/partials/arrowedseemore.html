@@ -1,0 +1,13 @@
+{{ with .Site.RegularPages.Prev . }}
+<a class="arrow bordered-arrow" href="{{ .RelPermalink }}">
+    {{ $image := resources.Get "leftarrow.svg" }}
+    {{ $image.Content | safeHTML }}
+</a>
+{{ end }}
+{{ partial "seemore.html" . }}
+{{ with .Site.RegularPages.Next . }}
+<a class="arrow bordered-arrow" href="{{ .RelPermalink }}">
+    {{ $image := resources.Get "rightarrow.svg" }}
+    {{ $image.Content | safeHTML }}
+</a>
+{{ end }}
