@@ -1,8 +1,8 @@
 ---
 title: "Day working out the kinks enjoy this picture "
-date: 2021-03-27T02:22:18.675Z
+date: 2021-03-26T02:22:18.675Z
 ---
-It’s a HUGE Pine cone!! Looked like something from the lord of the rings! Gotta get it to Mordor 
+It’s a HUGE Pine cone!! Looked like something from the lord of the rings! Gotta get it to Mordor
 
 ![Large pine cone](/images/45bc500a-b1ed-4c10-8d8d-ad5580943413.jpeg "Large pine cone")
 

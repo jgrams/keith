@@ -1,6 +1,6 @@
 ---
 title: This place was absolute kangaroo court carnage at 1 am
-date: 2021-03-26T02:43:33.429Z
+date: 2021-03-25T02:43:33.429Z
 ---
 More info coming later gotta hook y’all for the likes and subs! Hahahahahahha
 
