@@ -91,7 +91,13 @@ body {
 }
 
 .image {
-  max-width: 20%;#84cacaab
+  max-width: 20%;
+  height: auto;
+}
+
+.flex  {
+  display: flex;
+}
 
 .justify  {
   justify-content: center;
