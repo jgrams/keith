@@ -2,7 +2,7 @@
   --accent-color: #0054d2;
   --light-accent-color: #1966d8;
   --background-color: lightblue;
-  --secondary-color: #84caca;
+  --secondary-color: #84cacaab;
   --text-highlight-color: #f0f2f4;
   --arrow-accent: #eb9619;
 }
@@ -91,13 +91,7 @@ body {
 }
 
 .image {
-  max-width: 20%;
-  height: auto;
-}
-
-.flex  {
-  display: flex;
-}
+  max-width: 20%;#84cacaab
 
 .justify  {
   justify-content: center;
