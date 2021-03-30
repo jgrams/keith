@@ -1,6 +1,6 @@
 ---
 title: Made it to town! Time for a break!
-date: 2021-03-26T14:01:03-05:00
+date: 2021-03-26T14:01:03Z
 description: Time for some zeros
 miles: 76.3
 breakfast: Assorted nuts and things
