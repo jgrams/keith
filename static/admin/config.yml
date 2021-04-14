@@ -6,7 +6,7 @@ public_folder: /images
 logo_url: 'https://www.keithgramila.com/keith.png'
 collections:
   - name: 'reports'
-    label: 'Reports'
+    label: 'Day Report'
     folder: 'content/reports'
     path: '{{slug}}/index'
     media_folder: ''
@@ -17,6 +17,7 @@ collections:
       preview: false
     fields:
       - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false }
+      - { label: 'Header Image', name: 'main-image', widget: 'image', required: false }
       - { label: 'Total Miles', name: 'totalmiles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -25,7 +26,7 @@ collections:
       - { label: 'Dinner', name: 'dinner', widget: 'markdown' , required: false}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
   - name: 'images'
-    label: 'Image Post'
+    label: 'Image'
     folder: 'content/reports'
     path: '{{slug}}/index'
     media_folder: ''
@@ -37,6 +38,6 @@ collections:
     fields:
       - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Single Image', name: 'headImage', widget: 'image' }
-      - { label: 'Multiple Images', name: 'body', widget: 'markdown' }
+      - { label: 'Single Image', name: 'main-image', widget: 'image', required: false }
+      - { label: 'Description', name: 'body', widget: 'markdown', required: false }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
