@@ -7,13 +7,19 @@ collections:
   - name: 'reports'
     label: 'Reports'
     folder: 'content/reports'
+    path: '{{slug}}/index'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
-      - { label: 'Miles', name: 'miles', widget: 'number', min: 0, max: 99.9, value_type: 'float', step: .1, required: false }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime' }
+      - { label: 'Total Miles', name: 'totalmiles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Breakfast', name: 'breakfast', widget: 'markdown', required: false }
+      - { label: 'Lunch', name: 'lunch', widget: 'markdown' , required: false}
+      - { label: 'Dinner', name: 'dinner', widget: 'markdown' , required: false}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string', required: false }
+      - { label: 'Description', name: 'description', widget: 'string', required: false}
