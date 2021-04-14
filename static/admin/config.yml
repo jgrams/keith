@@ -13,7 +13,6 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Override Date', name: 'overrideDate', widget: 'datetime' }
       - { label: 'Total Miles', name: 'totalmiles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
       - { label: 'Title', name: 'title', widget: 'string' }
@@ -21,5 +20,5 @@ collections:
       - { label: 'Breakfast', name: 'breakfast', widget: 'markdown', required: false }
       - { label: 'Lunch', name: 'lunch', widget: 'markdown' , required: false}
       - { label: 'Dinner', name: 'dinner', widget: 'markdown' , required: false}
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string', required: false}
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
