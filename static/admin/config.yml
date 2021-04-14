@@ -16,9 +16,9 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false }
-      - { label: 'Header Image', name: 'main-image', widget: 'image', required: false }
-      - { label: 'Total Miles', name: 'totalmiles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
+      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false, default: '' }
+      - { label: 'Header Image', name: 'mainImage', widget: 'image', required: false }
+      - { label: 'Total Miles', name: 'miles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Breakfast', name: 'breakfast', widget: 'markdown', required: false }
@@ -36,8 +36,8 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false }
+      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false, default: '' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Single Image', name: 'main-image', widget: 'image', required: false }
+      - { label: 'Single Image', name: 'mainImage', widget: 'image', required: false }
       - { label: 'Description', name: 'body', widget: 'markdown', required: false }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
