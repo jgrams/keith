@@ -37,6 +37,6 @@ collections:
     fields:
       - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Single Image', name 'headImage', widget: 'image' }
+      - { label: 'Single Image', name: 'headImage', widget: 'image' }
       - { label: 'Multiple Images', name: 'body', widget: 'markdown' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
