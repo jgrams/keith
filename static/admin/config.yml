@@ -3,22 +3,40 @@ backend:
   branch: main
 media_folder: static/images
 public_folder: /images
+logo_url: 'https://www.keithgramila.com/keith.png'
 collections:
   - name: 'reports'
     label: 'Reports'
     folder: 'content/reports'
     path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
-      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime' }
+      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false }
       - { label: 'Total Miles', name: 'totalmiles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Breakfast', name: 'breakfast', widget: 'markdown', required: false }
       - { label: 'Lunch', name: 'lunch', widget: 'markdown' , required: false}
       - { label: 'Dinner', name: 'dinner', widget: 'markdown' , required: false}
-      - { label: 'Description', name: 'description', widget: 'string', required: false}
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+  - name: 'images'
+    label: 'Image Post'
+    folder: 'content/reports'
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Single Image', name 'headImage', widget: 'image' }
+      - { label: 'Multiple Images', name: 'body', widget: 'markdown' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
