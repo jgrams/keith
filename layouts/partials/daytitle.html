@@ -1,9 +1,7 @@
 {{ $start := $.Site.Params.start | time }}
-{{ $now  := .Params.date | time }}
-{{ if isset .Params "overrideDate" }}
-    {{ $now := .Params.ovrideDate }}
-{{ else }}
-    {{ $now := .Params.date }}
+{{ $now := .Params.date | time }}
+{{ if .Params.overrideDate }}
+    {{ $now = .Params.overrideDate | time }}
 {{ end }}
 {{ $diff := $now.Sub $start }}
 {{ $days := int (div $diff.Hours 24) }}
