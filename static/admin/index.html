@@ -8,6 +8,35 @@
   </head>
   <body>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script>
+CMS.registerEditorComponent({
+  // Internal id of the component
+  id: "shortImage",
+  // Visible label
+  label: "A Sized Image",
+  // Fields the user need to fill out when adding an instance of the component
+  fields: [{name: 'image', label: 'Image', widget: 'image'}],
+  // Pattern to identify a block as being an instance of this component
+  pattern: /^image/,
+  // Function to extract data elements from the regexp match
+  fromBlock: function(match) {
+    return {
+      id: match[1]
+    };
+  },
+  // Function to create a text block from an instance of this component
+  toBlock: function({ alt, image, title }) {
+    return 'youtube ' + obj.id;
+  },
+  // Preview output for this component. Can either be a string or a React component
+  // (component gives better render performance)
+  toPreview: function(obj) {
+    return (
+      '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+    );
+  }
+});
+</script>
   </body>
   <style>
     @media (max-width: 799px) {
