@@ -18,7 +18,7 @@ collections:
     fields:
       - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false, default: '' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown',  editor_components: ["shortcodeImage"]}
       - { label: 'Total Miles', name: 'miles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
       - { label: 'Breakfast', name: 'breakfast', widget: 'markdown', required: false }
       - { label: 'Lunch', name: 'lunch', widget: 'markdown' , required: false}
