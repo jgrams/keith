@@ -25,14 +25,16 @@ CMS.registerEditorComponent({
     };
   },
   // Function to create a text block from an instance of this component
-  toBlock: function({ alt, image, title }) {
-    return 'youtube ' + obj.id;
+  toBlock: function({ obj }) {
+    const image = obj.id;
+    console.log(obj);
+    return '{{ image src='$image' alt='' }}';
   },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
     return (
-      '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+      '<img src="' + obj.id + '"/>'
     );
   }
 });
