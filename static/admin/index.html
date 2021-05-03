@@ -15,7 +15,24 @@ CMS.registerEditorComponent({
   // Visible label
   label: "A Sized Image",
   // Fields the user need to fill out when adding an instance of the component
-  fields: [{name: 'image', label: 'Image', widget: 'image'}],
+  fields: [
+    {
+      label: 'Image',
+      name: 'image',
+      widget: 'image',
+      media_library: {
+        allow_multiple: false,
+      },
+    },
+    {
+      label: 'Alt Text',
+      name: 'alt',
+    },
+    {
+      label: 'Title',
+      name: 'title',
+    },
+  ],
   // Pattern to identify a block as being an instance of this component
   pattern: /^image/,
   // Function to extract data elements from the regexp match

@@ -3,7 +3,7 @@ backend:
   branch: main
 media_folder: static/images
 public_folder: /images
-logo_url: 'https://www.keithgramila.com/keith.png'
+logo_url: 'https://keithgramila.com/keith_hu398ea4e4f6dc5b51a27b7d649611c8a4_273953_340x0_resize_box_2.png'
 collections:
   - name: 'reports'
     label: 'Day Report'
@@ -18,7 +18,7 @@ collections:
     fields:
       - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false, default: '' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown', editor_components: [] }
       - { label: 'Breakfast', name: 'breakfast', widget: 'markdown', required: false }
       - { label: 'Lunch', name: 'lunch', widget: 'markdown' , required: false}
       - { label: 'Dinner', name: 'dinner', widget: 'markdown' , required: false}
