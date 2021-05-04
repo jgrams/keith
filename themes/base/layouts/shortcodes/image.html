@@ -1,2 +1,3 @@
 {{ $image  := .Get "src" }}
-{{ partial "image.html" (resources.Get $image) }}
+{{ partial "image.html" (.Page.Resources.GetMatch $image) }}
+

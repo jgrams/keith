@@ -42,9 +42,8 @@ CMS.registerEditorComponent({
       alt: match[1],
       title: match[4],
     },
-
   toBlock: ({ alt, image, title }) =>
-    `{{<- image src="${image || ''}" ${alt ? 'alt="' + alt + '"': ''} ${title ? 'title="' + title + '"' : ''} ->}}`,
+    `{{< image src="${image || ''}" ${alt ? 'alt="' + alt + '"': ''} ${title ? 'title="' + title + '"' : ''} >}}`,
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: ({ alt, image, title }, getAsset, fields) => {

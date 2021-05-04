@@ -6,3 +6,5 @@ theme = "base"
     start = 2021-03-20T00:00:00.00Z
     button = "Go Back Home"
     buttonLink = "/"
+[imaging]
+    quality = 95
