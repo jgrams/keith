@@ -20,9 +20,9 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown',  editor_components: ["shortcodeImage"]}
       - { label: 'Total Miles', name: 'miles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
-      - { label: 'Breakfast', name: 'breakfast', widget: 'markdown', required: false }
-      - { label: 'Lunch', name: 'lunch', widget: 'markdown' , required: false}
-      - { label: 'Dinner', name: 'dinner', widget: 'markdown' , required: false}
+      - { label: 'Breakfast', name: 'breakfast', widget: 'markdown', required: false, editor_components: ["shortcodeImage"] }
+      - { label: 'Lunch', name: 'lunch', widget: 'markdown' , required: false, editor_components: ["shortcodeImage"]}
+      - { label: 'Dinner', name: 'dinner', widget: 'markdown' , required: false, editor_components: ["shortcodeImage"]}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
   - name: 'images'
     label: 'Image'
@@ -37,5 +37,5 @@ collections:
     fields:
       - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false, default: '' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Images and Descriptions', name: 'body', widget: 'markdown', required: false }
+      - { label: 'Images and Descriptions', name: 'body', widget: 'markdown', required: false, editor_components: ["shortcodeImage"] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
