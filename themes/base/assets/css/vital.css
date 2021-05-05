@@ -7,6 +7,10 @@
   --arrow-accent: #eb9619;
 }
 
+img {
+  object-fit: contain;
+}
+
 .preview {
   background-color: lightgreen;
   border-radius: 1rem;

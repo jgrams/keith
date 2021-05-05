@@ -4,7 +4,9 @@ title = "KPG Pacific Crest Trail"
 theme = "base"
 [params]
     start = 2021-03-20T00:00:00.00Z
-    button = "Go Back Home"
+    button = "Go Home"
+    description = "Through-hiking the Pacific Crest Trail in 2021. Gear and vibes."
+    images = ["keith.png"]
     buttonLink = "/"
 [imaging]
     quality = 95

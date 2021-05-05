@@ -9,7 +9,6 @@
         {{ else if in (slice 7 8) $orientation }}
             {{ $rotation = " r90"}}
         {{ end }}
-        {{ $orientation }}
     {{ end }}
     {{- $smallwebp := .Resize (print "340x webp" $rotation) }}
     {{- $small := .Resize (print "340x jpg" $rotation) }}

@@ -2,11 +2,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>{{ block "title" . }}{{ if .Title }}{{ .Title }} | {{ end }}{{end }}{{ .Site.Title }}</title>
-    <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}">
+    <meta name="description" content="{{ $.Site.Params.description }}">
     <meta name="keywords" content="Pacific Crest Trail, PCT, Trail Magic, Hiking">
     <meta name="author" content="Keith Gramila">
     {{ template "_internal/opengraph.html" . }}
     {{- partial "vitalcss.html" -}}
     {{- partial "favicons.html" . -}}
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
 </head>
