@@ -1,25 +1,33 @@
 <picture>
-    {{ $rotation := "" }}
-    {{ with .Exif }}
-        {{ $orientation  := .Tags.Orientation }}
-        {{ if in (slice 3 4) $orientation }}
+    {{- $rotation := "" -}}
+    {{- $image  := . -}}
+    {{- $sizes := slice "1280" "640" "340" -}}
+    {{- $formats := slice "jpeg" "webp" -}}
+    {{- $defaultImage := $image -}}
+    {{- with $image.Exif -}}
+        {{- $orientation  := .Tags.Orientation -}}
+        {{- if in (slice 3 4) $orientation -}}
             {{ $rotation = " r180" }}
-        {{ else if in (slice 5 6) $orientation }}
-            {{ $rotation = " r270"}}
-        {{ else if in (slice 7 8) $orientation }}
-            {{ $rotation = " r90"}}
-        {{ end }}
-    {{ end }}
-    {{- $smallwebp := .Resize (print "340x webp" $rotation) }}
-    {{- $small := .Resize (print "340x jpg" $rotation) }}
-    {{- $mediumwebp := .Resize (print "640x webp" $rotation) }}
-    {{- $medium := .Resize (print "640x jpg" $rotation) }}
-    {{- $largewebp := .Resize (print "1280x webp" $rotation) }}
-    {{- $large := .Resize (print "1280x jpg" $rotation) }}
-    <source media="(min-width: 1280px)" width="{{ $largewebp.Width }}" height="{{ $largewebp.Height }}" srcset="{{ $largewebp.RelPermalink }}" type="image/webp">
-    <source media="(min-width: 1280px)" width="{{ $large.Width }}" height="{{ $large.Height }}" srcset="{{ $large.RelPermalink }}" >
-    <source media="(min-width: 640px)" width="{{ $mediumwebp.Width }}" height="{{ $mediumwebp.Height }}" srcset="{{ $mediumwebp.RelPermalink }}" type="image/webp">
-    <source media="(min-width: 640px)" width="{{ $medium.Width }}" height="{{ $medium.Height }}" srcset="{{ $medium.RelPermalink }}">
-    <source media="(min-width: 340px)"  width="{{ $smallwebp.Width }}" height="{{ $smallwebp.Height }}" srcset="{{ $smallwebp.RelPermalink }}" type="image/webp">
-    <img src="{{ $small.RelPermalink }}"  width="{{ $small.Width }}" height="{{ $small.Height }}" loading="lazy" alt="{{ .Title }}">
+        {{- else if in (slice 5 6) $orientation -}}
+            {{ $rotation = " r270" }}
+        {{- else if in (slice 7 8) $orientation -}}
+            {{ $rotation = " r90" }}
+        {{- end -}}
+    {{- end -}}
+    {{- range $sizes -}}
+        {{- $size := . -}}
+        {{- range $formats -}}
+            {{- $sized_image := $image.Resize (print $size "x " .  $rotation) -}}
+            {{- if and (eq $size (index $sizes -1)) (eq . (index $formats 0)) -}}
+                {{- $defaultImage = $sized_image -}}
+            {{- else -}}
+            <source media="(min-width: {{$size}}px)"
+                    width="{{ $sized_image.Width }}"
+                    height="{{ $sized_image.Height }}"
+                    srcset="{{ $sized_image.RelPermalink }}"
+                    type="{{ print "image/" . }}" />
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+    <img src="{{ $defaultImage.RelPermalink }}" loading="lazy" alt="{{ $image.Title }}">
 </picture>
