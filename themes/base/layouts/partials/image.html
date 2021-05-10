@@ -2,7 +2,7 @@
     {{- $rotation := "" -}}
     {{- $image  := . -}}
     {{- $sizes := slice "1280" "640" "340" -}}
-    {{- $formats := slice "jpeg" "webp" -}}
+    {{- $formats := slice "webp" "jpeg" -}}
     {{- $defaultImage := $image -}}
     {{- with $image.Exif -}}
         {{- $orientation  := .Tags.Orientation -}}
@@ -18,7 +18,7 @@
         {{- $size := . -}}
         {{- range $formats -}}
             {{- $sized_image := $image.Resize (print $size "x " .  $rotation) -}}
-            {{- if and (eq $size (index $sizes -1)) (eq . (index $formats 0)) -}}
+            {{- if and (eq $size (index $sizes -1)) (eq . (index $formats -1)) -}}
                 {{- $defaultImage = $sized_image -}}
             {{- else -}}
             <source media="(min-width: {{$size}}px)"
