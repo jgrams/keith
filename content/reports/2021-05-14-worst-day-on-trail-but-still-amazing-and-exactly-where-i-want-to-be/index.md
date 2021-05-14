@@ -1,7 +1,7 @@
 ---
 overrideDate: 2021-05-12T07:00:00.000Z
 title: Worst day on trail but still amazing and exactly where I want to be
-totd: "Totd: before the day took a turn ramblin said the sweetest thing I’ve
+totd: "before the day took a turn ramblin said the sweetest thing I’ve
   heard in a long time. Her husband relates the smell of her B O with the time
   he spent with her in the Appalachian trail.... so it’s like a good smell to
   him 😭😭that’s so cute!!!     Oh ramblin did the AT not sure if I’ve mentioned

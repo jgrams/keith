@@ -2,7 +2,7 @@
 overrideDate: 2021-05-07T07:00:00.000Z
 title: Tehachapi only 150 ish more miles of desert good thing we’re always
   hydrated and nothing will change that!!!
-totd: "Totd: Lux found out I was going to Bakersfield the next morning to get my
+totd: "Lux found out I was going to Bakersfield the next morning to get my
   second dose of phizer and offered to give me a ride 👻 way easier than the
   bus"
 miles: 558.5

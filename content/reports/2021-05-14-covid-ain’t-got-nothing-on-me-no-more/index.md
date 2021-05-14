@@ -1,7 +1,7 @@
 ---
 overrideDate: 2021-05-08T07:00:00.000Z
 title: COVID ain’t got nothing on me no more!
-totd: "Totd: every hotel I go into I see bugs and I’m pretty sure I’m bringing them!"
+totd: "every hotel I go into I see bugs and I’m pretty sure I’m bringing them!"
 miles: 558.5
 breakfast: HUGE burrito for five bucks! like HUGE
 lunch: L that burrito was too big

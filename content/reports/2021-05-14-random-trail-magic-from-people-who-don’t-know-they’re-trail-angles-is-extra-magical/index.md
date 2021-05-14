@@ -2,7 +2,7 @@
 overrideDate: 2021-05-11T07:00:00.000Z
 title: Random trail magic from people who don’t know they’re trail angles is
   extra magical
-totd: "Totd: Dougs roommate actually rowed at my high school with my brother!!
+totd: "Dougs roommate actually rowed at my high school with my brother!!
   He was giving me shit for how fancy UA is just like everyone else from
   Columbus hahaha"
 miles: 608.9

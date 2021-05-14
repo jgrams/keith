@@ -1,7 +1,7 @@
 ---
 overrideDate: 2021-05-10T07:00:00.000Z
 title: Trail fam mostly whole again!!
-totd: "Totd: they were doing construction on some wind farms. When I came out of
+totd: "they were doing construction on some wind farms. When I came out of
   the trail to cross their job site I was like “oh it’s my constitution people”
   they ushered me along like any other hiker 😣 Fasco was right I should’ve worn
   my neon green construction shirt"
@@ -24,6 +24,6 @@ Caught up with the rest of the trail fam at the end of the day! Was so nice to s
 
 
 
- 
+
 
 {{< image src="1772555c-e681-4fd6-844d-72e51834c2b3.jpeg" alt="Views" title="Views" >}}

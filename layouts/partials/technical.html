@@ -1,4 +1,8 @@
 <div>
+    {{ if .Params.totd }}
+        <h3 class="totd">Thing of the day:</h3>
+        <div>{{ .Params.totd }}</div>
+    {{ end }}
     {{ if .Params.miles }}
     <button id="button" class="m4" onclick="toggle('details', 'visible')">Toggle Technical Details</button>
     <div hidden id="details" class="align-left">
