@@ -17,7 +17,7 @@ collections:
       preview: false
     fields:
       - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false, default: '' }
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string', pattern: ['^.{1,230}$', "Must be less than 230 characters."] }
       - { label: 'Body', name: 'body', widget: 'markdown',  editor_components: ["shortcodeImage"]}
       - { label: 'Thing Of The Day', name: 'totd', widget: 'string', required: false }
       - { label: 'Total Miles', name: 'miles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
