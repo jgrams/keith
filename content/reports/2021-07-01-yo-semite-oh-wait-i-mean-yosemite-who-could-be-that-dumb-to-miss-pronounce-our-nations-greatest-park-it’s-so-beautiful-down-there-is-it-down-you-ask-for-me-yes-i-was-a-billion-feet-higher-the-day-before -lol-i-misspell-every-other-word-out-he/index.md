@@ -1,10 +1,8 @@
 ---
 overrideDate: 2021-06-20T07:00:00.000Z
-title: Yo Semite oh wait I mean Yosemite... who could be that dumb to miss
-  pronounce our nations greatest park. It’s so beautiful down there. Is it down
-  you ask? For me yes! I was a billion feet higher the day before     Lol I
-  misspell every other word out here I could definitely see me making that
-  mistake
+title: Yo Semite oh wait I mean Yosemite...who could be that dumb to miss
+  pronounce our nations greatest park. It’s beautiful down there. Is it down
+  you ask? For me yes! I was a billion feet higher the day before
 totd: Started on ramblins hat! Oh wait I haven’t talked about my knitting on
   here yet... well I’ve been knitting on trail made two hats and working on the
   third. More info an pictures will come in later posts about the past! How am I
