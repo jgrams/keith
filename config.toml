@@ -2,7 +2,7 @@ baseURL = "https://www.keithgramila.com/"
 languageCode = "en-us"
 title = "KPG Pacific Crest Trail"
 theme = "base"
-timeout = 60000
+timeout = 180000
 [params]
     start = 2021-03-20T00:00:00.00Z
     button = "Go Home"
