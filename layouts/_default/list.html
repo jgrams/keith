@@ -1,7 +1,12 @@
 {{- define "main" }}
     <h1>{{ .Title }}</h1>
     <div>{{ .Content }}</div>
-    {{ range where .Site.Pages "Section" "reports" }}
+    {{ range where .Site.Pages "Section" "2022" }}
+        {{ range .Pages.ByDate.Reverse }}
+            {{ partial "preview.html" . }}
+        {{ end }}
+    {{ end }}
+    {{ range where .Site.Pages "Section" "2021-pct" }}
         {{ range .Pages.ByDate.Reverse }}
             {{ partial "preview.html" . }}
         {{ end }}

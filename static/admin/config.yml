@@ -7,36 +7,15 @@ logo_url: 'https://www.keithgramila.com/keith.png'
 collections:
   - name: 'reports'
     label: 'Day Report'
-    folder: 'content/reports'
+    folder: 'content/{{year}}/{{slug}}'
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
       - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false, default: '' }
       - { label: 'Title', name: 'title', widget: 'string', pattern: ['^.{1,230}$', "Must be less than 230 characters."] }
-      - { label: 'Body', name: 'body', widget: 'markdown',  editor_components: ["shortcodeImage"]}
-      - { label: 'Thing Of The Day', name: 'totd', widget: 'string', required: false }
-      - { label: 'Total Miles', name: 'miles', widget: 'number', min: 0, value_type: 'float', step: .1, required: false }
-      - { label: 'Breakfast', name: 'breakfast', widget: 'markdown', required: false, editor_components: ["shortcodeImage"] }
-      - { label: 'Lunch', name: 'lunch', widget: 'markdown' , required: false, editor_components: ["shortcodeImage"]}
-      - { label: 'Dinner', name: 'dinner', widget: 'markdown' , required: false, editor_components: ["shortcodeImage"]}
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-  - name: 'images'
-    label: 'Image'
-    folder: 'content/reports'
-    path: '{{slug}}/index'
-    media_folder: ''
-    public_folder: ''
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false, default: '' }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Images and Descriptions', name: 'body', widget: 'markdown', required: false, editor_components: ["shortcodeImage"] }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown'}
