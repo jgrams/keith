@@ -1,9 +1,7 @@
 ---
-title: KPG on the PCT
+title: KPG on the PCT (and more!)
 button: See All The PCT Reports
 buttonLink: /2021-pct
 ---
 
-Hi, I'm Keith! I'm hiking the Pacific Crest Trail this year. It's 2021, I quit my job, and I'm ready to live in the woods for months in order to learn exactly how wet and cold I can possibly get.
-
-**Update:** I'm actually learning how hot and sore I can get.
+Hi, I'm Keith! I'm a hiker and electrical engineer. I mostly write about my experiences hiking trails like the PCT and the tallest 100 mountains all across Washington.
