@@ -16,6 +16,5 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Override Date', name: 'overrideDate', widget: 'datetime', required: false, default: '' }
       - { label: 'Title', name: 'title', widget: 'string', pattern: ['^.{1,230}$', "Must be less than 230 characters."] }
       - { label: 'Body', name: 'body', widget: 'markdown'}
