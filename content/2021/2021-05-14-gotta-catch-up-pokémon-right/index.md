@@ -8,6 +8,8 @@ lunch: L sandwich from tehachapi
 dinner: D the sandwich’s were a lot. Not the person I consistently spell their
   name wrong but the actual food
 date: 2021-05-14T02:27:27.632Z
+tags: 
+    - PCT
 ---
 Woke up feeling extra tired! So I slept more LOL imma genius
 

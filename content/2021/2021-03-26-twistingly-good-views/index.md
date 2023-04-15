@@ -7,6 +7,8 @@ breakfast: Polenta with cherries and granola
 lunch: Not much ate some handfuls of trail mix but that’s it sat down to eat but
   wasn’t hungry
 dinner: Tortellini and tuna.... together of course
+tags: 
+    - PCT
 ---
 Twisted my ankle today “ouch” ...... twice “ouch” ... does a double ouch make a okay? Like a double negative? I gotta be more careful on those downhills when it’s muddy. It’s muddy cause of the hail remember the hail I’ll never forget the hail.
 

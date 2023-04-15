@@ -4,6 +4,8 @@ title: Covid vaccines for everyone!! You get a vax you get a vax you get a vax
   YOUGETAVAX
 totd: "Vaccines "
 date: 2021-05-23T04:28:24.801Z
+tags: 
+    - PCT
 ---
 Town day, sand and rose (ramblins full name is ramblin rose not sure I’ve said that on here but there it is, and obvi sand is sand Witch I should not have to explain that) 
 

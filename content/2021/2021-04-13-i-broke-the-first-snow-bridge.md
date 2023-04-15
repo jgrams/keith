@@ -1,6 +1,8 @@
 ---
 title: "I broke the first snow bridge "
 date: 2021-04-09T03:19:31.806Z
+tags: 
+    - PCT
 ---
 So the group I was hiking with saw on gut hooks that there was a small snow bridge (patch of snow that lest you walk over flowing water) coming up. They said I needed to cross it last cause I’m post holing all day and night and will probably make that bridge come crashing down, it was a half joke lol fuck them but it was funny and I also love them!
 

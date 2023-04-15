@@ -1,6 +1,8 @@
 ---
 title: Pretty tree bark!
 date: 2021-03-22T02:00:11.647Z
+tags: 
+    - PCT
 ---
 Some of the trees out here look like they’ve been dipped in red paint! They look really coooool.
 

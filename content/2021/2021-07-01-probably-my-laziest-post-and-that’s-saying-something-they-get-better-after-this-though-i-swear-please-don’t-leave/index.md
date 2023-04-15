@@ -6,6 +6,8 @@ totd: Totd At lunch on a huuuuuge rock on the edge of a meadow was amazing can�
   wait to see what’s next
 miles: 964.6
 date: 2021-07-01T19:52:38.079Z
+tags: 
+    - PCT
 ---
 Woke up late hiked till late that’s the way I role, I guess. Started at a pretty beautiful 
 

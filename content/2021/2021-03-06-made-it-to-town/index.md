@@ -6,6 +6,8 @@ miles: 76.3
 breakfast: Assorted nuts and things
 lunch: Spam chicken Mayo and more granola, the spam was eaten separately
 dinner: An amazing home cooked meal!!! Thanks Trish!!!!
+tags: 
+    - PCT
 ---
 
 Woke up with a thumbs up and smile from Richard. Was nice

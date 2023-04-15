@@ -10,6 +10,8 @@ lunch: L random snacks tuna and tortillas with pb
 dinner: D ate some cold soaked rice thing and salami was pretty good, gonna cold
   soak more and more out here
 date: 2021-05-23T03:48:35.137Z
+tags: 
+    - PCT
 ---
 
 

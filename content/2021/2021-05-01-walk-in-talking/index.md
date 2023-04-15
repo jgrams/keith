@@ -6,6 +6,8 @@ breakfast: Oatmeal
 lunch: Food
 dinner: rice with red sauce and salami
 date: 2021-05-01T15:38:17.781Z
+tags: 
+    - PCT
 ---
 Walked. Had phone service part of the day got to call my parents was nice 🧸 ( talk about my emoji choices way too much I gotta keep them on point, will actually thinking about them now instead of randomly choosing the first one I think fits change that? Oh Jerez! ) slept at a ranger station and hung out till after dark. Was nice to hang out with my trail fam 🎉
 

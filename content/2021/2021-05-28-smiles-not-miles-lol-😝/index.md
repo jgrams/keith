@@ -8,6 +8,8 @@ totd: Totd cool    Was told that I say cool pronounced like coup kinda like I’
   but meh that’s who I am 🤬
 miles: 716.5
 date: 2021-05-28T01:27:13.756Z
+tags: 
+    - PCT
 ---
 Our plan was to do ten miles lol we never follow through. But we do what we want so cool! Also was my idea to stop early Lol 
 

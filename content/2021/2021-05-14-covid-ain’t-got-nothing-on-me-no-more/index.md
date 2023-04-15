@@ -7,6 +7,8 @@ breakfast: HUGE burrito for five bucks! like HUGE
 lunch: L that burrito was too big
 dinner: D sushi!! Thanks pops
 date: 2021-05-14T02:25:21.300Z
+tags: 
+    - PCT
 ---
 Got a ride to Bakersfield got my second vaccine! I’m like a moving cell tower with superior DNA now!!! 
 

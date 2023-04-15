@@ -6,6 +6,8 @@ breakfast: Left over feast
 lunch: Left over feast
 dinner: Tortellini with potato soup and tuna
 date: 2021-04-24T05:34:37.283Z
+tags: 
+    - PCT
 ---
 Hung out at the hot springs for half the day was nice to chill with tonka and friends for some time.
 

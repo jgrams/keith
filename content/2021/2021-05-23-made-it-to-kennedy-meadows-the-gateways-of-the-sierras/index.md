@@ -9,6 +9,8 @@ breakfast: B dinner from last night
 lunch: L tortillas and pb spam other stuff
 dinner: D tuna cliff bars I’m to tired to make a real meal
 date: 2021-05-23T04:11:29.763Z
+tags: 
+    - PCT
 ---
 
 

@@ -7,6 +7,8 @@ totd: Totd did my first bear hang tonight.... in a national forest that requires
   woops. Was funny and there’s a video to go with it
 miles: 709.5
 date: 2021-05-28T01:21:02.250Z
+tags: 
+    - PCT
 ---
 Went back to Kennedy Meadows to pick up asthma things and get back to trail!!
 

@@ -6,6 +6,8 @@ breakfast: sausage breakfast sandwich thanks momma bear!!!
 lunch: chicken and assorted nuts yum
 dinner: terriaki rice definitely spelled that right with chicken
 date: 2021-04-22T04:16:09.403Z
+tags: 
+    - PCT
 ---
 Starting to write these down offline so it’s more fresh and funky! I am writing this on 4/15 .... meh no buddy’s perfect. Got a ride to trail and breakfast from momma bear!! She’s truly an angle 😊 without angles thru hiking would be so much harder.
 

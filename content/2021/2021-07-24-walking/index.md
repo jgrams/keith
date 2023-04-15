@@ -5,6 +5,8 @@ totd: Totd saw myself in the mirror standing sideways with a shirt on was
   shocked. Not a unhealthy shock but a shock
 miles: 1175.5
 date: 2021-07-24T19:27:48.597Z
+tags: 
+    - PCT
 ---
 Walked up a place called tinkers knob in r something like that on the way to it there was no one else but other pct-ers. At the top and on the way back down was FULL of day hikers. Nothing against them but you know. Got some trail magic once I got close to the trailhead/parking lot. Also got more in the parking lot. Day hikers love giving out trail magic. And I love them. 
 

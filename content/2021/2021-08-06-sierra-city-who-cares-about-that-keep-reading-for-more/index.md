@@ -6,6 +6,8 @@ totd: "RAMBLIN ROSE IS BACK BOOOOOOOOM duh 👩‍🚒💃🌹🥮🦁💪👩�
   you go "
 miles: 1195.4
 date: 2021-08-06T01:47:08.321Z
+tags: 
+    - PCT
 ---
 Woke up walked down hill to town... swam in a nice river blah blah blah let’s get to the important part of the day RAMBLIN with no g rose!!!! She’s back! We met back up in Sierra city!!!!!! SHES BACK!!!!!! Wooooooooo sorry meant to do that in capitals WOOOOOOOOO
 

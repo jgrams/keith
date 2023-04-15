@@ -3,6 +3,8 @@ overrideDate: 2021-04-21T07:00:00.000Z
 title: Sun clouds grounds. In that order but you can’t see the ground. How do I
   come up with such good tittles? Idk I just do boom next
 date: 2021-04-24T06:00:25.308Z
+tags: 
+    - PCT
 ---
 Started the day below the clouds, hiked through them and eventually above them! So beautiful! This whole trip is beautiful and I love every moment 🤫
 

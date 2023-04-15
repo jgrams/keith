@@ -6,6 +6,8 @@ miles: 91.2
 breakfast: Two slices of PIZZA
 lunch: Two carrots (picked up carrots in Julian get ready to see them most meals probably not breakfast though)  hot sauce chicken and a cliff bar!
 dinner: Two carrots again tortilla soup with tortellini and tuna
+tags: 
+    - PCT
 ---
 Woke up in a bed this morning! After two days of zeros and hanging around Richard and Trish's house in San Diego it was time to get back to trail. Richard was kind enough to give me a ride and even take me to Julian for some odd and ends!
 

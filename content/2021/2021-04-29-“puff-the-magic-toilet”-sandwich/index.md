@@ -6,6 +6,8 @@ breakfast: Town food again some sandwich from a grocery store
 lunch: Food and beer good times
 dinner: Sausage risotto and something else I can’t remember
 date: 2021-04-29T02:43:23.521Z
+tags: 
+    - PCT
 ---
 Started the day in town, hanging out and finishing up chores didn’t start trail until around noon lol our group is going for that speed record!! 
 

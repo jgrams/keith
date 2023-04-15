@@ -6,6 +6,8 @@ totd: Met someone named weasel duck (auto correct but you can figure that one
   out)That’s all
 miles: 1098.4
 date: 2021-07-24T19:09:31.983Z
+tags: 
+    - PCT
 ---
 
 

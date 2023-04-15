@@ -5,6 +5,8 @@ totd: Totd benson lake duh it was amazing and so glad soccer mom dropped that
   insight into our brains to go check it out
 miles: 982.3
 date: 2021-07-01T20:53:09.336Z
+tags: 
+    - PCT
 ---
 Stayed at the best lake we’ve seen yet!! Was so beautiful and had a sandy beach around it perfect for some on trail relaxation!!! (Most of the trail is relaxing so that doesn’t mean that much but it is amazing. I guess actually the Sierras are real hard so that relaxation is important!!! It’s always up or down out here never easy flat know what I’m saying? Also fucking miscitos not how you spell that oh well. They’re the little flying blood suckers from hell if that word is hard to figure out.
 

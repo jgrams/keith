@@ -1,6 +1,8 @@
 <div class="header flex center justify">
-    {{ $icon := resources.Get "keith.png" }}
     <a class="icon" href="/">
-        {{ partial "image.html" $icon }}
+        {{ $image_info := (dict "src" "keith.png") }}
+        {{ $image_info = merge $image_info (dict "page" .Page) }}
+        {{ $image_info = merge $image_info (dict "alt" "Keith Gramila") }}
+        {{ partial "image.html" $image_info }}
     </a>
 </div>

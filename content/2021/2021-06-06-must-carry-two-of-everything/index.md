@@ -8,6 +8,8 @@ totd: "Totd: when we got back to trail there was a park ranger stamping permits
   validated by the forest people"
 miles: 750.8
 date: 2021-06-06T06:51:29.420Z
+tags: 
+    - PCT
 ---
 Back to trail...... with two bear cans! Cause of the rules You have to carry a bear can through the Sierras (a bear can is a plastic tub that bears can’t open and holds your food, Google it) people complain about and hate carrying them cause they’re two pounds of dead weight you have to carry........ so I got two of them lol I’m a dummy but it’s a funny flex (unless my knees explode that’d be bad) also I carry a bunch of food and to follow the rules I need to carry two... That’s not totally true everyone else does the trail with one so could I 😑 meh
 

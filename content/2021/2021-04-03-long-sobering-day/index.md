@@ -6,6 +6,8 @@ miles: 168.6
 breakfast: Assorted nuts and granola
 lunch: Chicken tuna almond pistachio and carrots all together of course
 dinner: Half that guy’s sandwich and the rest of my carrots:(
+tags: 
+    - PCT
 ---
 
 First half of the day was uneventful, just a lot a walking.... Around lunch I made it to this beautiful area called cedar spring it was this tiny oasis full of cedar trees with amazing campsites. I talked with a couple on a day hike while I was re filling my water. We talked about the PCT and how it’s going. They said something at the end like “with a smile like that when you talk about it you must be loving it” something along those lines. It really touched me 🥰 (oh dam just realized I can put emojis in here 🥳)

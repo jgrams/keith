@@ -1,4 +1,4 @@
-{{ $start := $.Site.Params.start | time }}
+{{ $start := "2021-03-20T00:00:00.00Z" | time }}
 {{ $now := .Params.date | time }}
 {{ if .Params.overrideDate }}
     {{ $now = .Params.overrideDate | time }}

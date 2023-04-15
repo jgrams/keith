@@ -7,6 +7,8 @@ lunch: assorted nuts and granola
 dinner: Rice thing with tuna. I ate dinner then did five more miles was nice.
   Not sure I’m going to do it everyday but yup
 date: 2021-04-22T04:24:03.771Z
+tags: 
+    - PCT
 ---
 Walked most of the day alone and had this overwhelming sense of freedom at the end of the day. I am free to do anything with my time it’s a nice feeling. 
 

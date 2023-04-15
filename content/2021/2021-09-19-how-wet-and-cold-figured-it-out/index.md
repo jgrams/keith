@@ -6,6 +6,8 @@ totd: "Totd: it was cold don’t hike into a storm without the right gear it’s
   thought of maybe dying never crossed my mind. I was surrounded by people who
   love me and have an emergency button strapped to my chest. K love you"
 date: 2021-09-19T01:22:03.073Z
+tags: 
+    - PCT
 ---
 Yikes mom and dad not going to love this story but it’s what happened! Love you and remember I have an emergency button.
 

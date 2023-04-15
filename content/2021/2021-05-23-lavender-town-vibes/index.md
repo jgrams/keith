@@ -6,6 +6,8 @@ totd: Totd we used bleach to clean our water purification things per the sawyer
   So now they all smell like bleach and lavender. That was me woops sorry trail
   fam
 date: 2021-05-23T03:33:34.970Z
+tags: 
+    - PCT
 ---
 Hitched into town, was an interesting hitch this is an interesting town for sure has a vibe. We resupplied and cleaned our water cleaner and carriers.
 

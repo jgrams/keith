@@ -6,6 +6,8 @@ totd: So far I’ve been hail on and rained on the same amount. Twice for both.
   Anyone hear the same about Washington? Let me know!
 miles: 999.5
 date: 2021-07-02T01:31:53.344Z
+tags: 
+    - PCT
 ---
 Was gonna start this entry the same way I start many “woke up late” but I’m doing what makes me happy so am I really late? Late for what? There no rules out here about start time haha k
 

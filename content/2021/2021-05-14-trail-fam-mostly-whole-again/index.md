@@ -11,6 +11,8 @@ lunch: L spam peanut butter sriracha all in a tortilla!! Was amazing and will
   definitely be eating again wooo picture taken
 dinner: D garlic Parmesan rice with chicken
 date: 2021-05-14T02:31:24.515Z
+tags: 
+    - PCT
 ---
 Woke up later than I wanted to, oh well I’m on vacation! Buuuuuuut there were the ants that for sure woke up before me woops. My things were covered luckily they hadn’t made it to me yet. 
 

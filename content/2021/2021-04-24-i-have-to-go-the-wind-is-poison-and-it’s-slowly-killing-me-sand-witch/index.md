@@ -7,6 +7,8 @@ lunch: Spam, clif bar, some other stuff? Idk it was a few days ago I think I say
   idk too much on here... oh well I am who I am
 dinner: Dell taco
 date: 2021-04-24T05:39:54.793Z
+tags: 
+    - PCT
 ---
 Found another toilet today. It was amazing snagged some more toilet paper cause I was running low. Reminded me of me and Dan A stealing those huge roles from the engineering building in college. Please don’t report me I don’t want to go to jail. K thanks
 

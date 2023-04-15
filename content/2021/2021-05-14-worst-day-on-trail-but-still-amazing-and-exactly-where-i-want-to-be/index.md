@@ -7,6 +7,8 @@ totd: "before the day took a turn ramblin said the sweetest thing I’ve
   him 😭😭that’s so cute!!!     Oh ramblin did the AT not sure if I’ve mentioned
   that on here but she sure has mentioned it! LOL get wrecked"
 date: 2021-05-14T02:43:49.373Z
+tags: 
+    - PCT
 ---
 Yikes this day fucking sucked. 
 

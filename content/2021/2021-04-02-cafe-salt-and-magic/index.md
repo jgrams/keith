@@ -6,6 +6,8 @@ miles: 155.9
 breakfast: None gotta save all that space for paradise valley
 lunch: BURGER
 dinner: Cuscus and bacon bits! Didn’t need it that burger was huge
+tags: 
+    - PCT
 ---
 
 "Woke up without any water, and cause I’m a smarty pants dinner for the last night I ate the world saltiest meal EVER so I was pretty thirsty. Only two miles to my next water!!

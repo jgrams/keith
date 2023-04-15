@@ -7,6 +7,8 @@ breakfast: Snacks
 lunch: Town food
 dinner: Town food
 date: 2021-04-24T05:50:16.479Z
+tags: 
+    - PCT
 ---
 Started the day running into bounce!! Cool guy! Didn’t know he was at the same campsite, felt bad cause I was on the phone till late. Hope he didn’t hear me woops.
 

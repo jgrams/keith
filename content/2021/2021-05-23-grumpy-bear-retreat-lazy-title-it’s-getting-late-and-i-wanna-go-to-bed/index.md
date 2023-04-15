@@ -7,6 +7,8 @@ totd: Totd heard from a gear outfitter that western mountaineering was 5000
   for the pct I love it 😻     Also everyone got new water purification things
   cause of the lavender woops my b
 date: 2021-05-23T04:22:28.242Z
+tags: 
+    - PCT
 ---
 much more chill day, wish I could’ve slept more cause i was hungover! I didn’t drink too much but it was close I definitely could have gone without the last three drinks. Which definitely means I drank too much, something to think about next time.
 

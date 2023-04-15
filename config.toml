@@ -4,7 +4,6 @@ title = "KPG Pacific Crest Trail"
 theme = "base"
 timeout = 180000
 [params]
-    start = 2021-03-20T00:00:00.00Z
     button = "Go Home"
     description = "Through-hiking the Pacific Crest Trail in 2021. Gear and vibes."
     images = ["keith.png"]

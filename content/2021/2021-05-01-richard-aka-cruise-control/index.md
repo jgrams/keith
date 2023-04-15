@@ -10,6 +10,8 @@ dinner: sushi with ramblin husband Justin or whatever! I hung out with like
   night three and four. Nice to see him again also!!! Today’s like a mini
   reunion 🕵️
 date: 2021-05-01T15:45:31.556Z
+tags: 
+    - PCT
 ---
 Woke up a lil hung over, started the day with a climb! Hang over was gone after the climb, best way to cure a hang over is to work out 🏋️‍♀️ woop woop. Made it to big Agnes today at some Mexican with other hikers. SAW RICHARD AGAIN!! His NAME IS NOW CRUISE CONTROL !!! LOVED SEEING HIM AGAIN!! Woop woop ubered into Santa Clarita time for a zero.
 

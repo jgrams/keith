@@ -8,6 +8,8 @@ breakfast: Food
 lunch: Food
 dinner: risotto chicken ramen and some dried veggies yummy
 date: 2021-05-01T15:33:11.924Z
+tags: 
+    - PCT
 ---
 Hiked past 420 today woop woop that’s a fun number!
 

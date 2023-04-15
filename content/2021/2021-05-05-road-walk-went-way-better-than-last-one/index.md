@@ -6,6 +6,8 @@ breakfast: Amazing omelette
 lunch: spam. oat bars. Trail mix. Tortillas and peanut butter
 dinner: Cheddar noodles with veggies spam and something else
 date: 2021-05-05T18:18:30.955Z
+tags: 
+    - PCT
 ---
 Got breakfast from an amazing place. Don’t remember the name so sorry restaurant the keithgramila dot com fans won’t know how amazing you were. Also got mimosa and an Irish coffee was everything I wanted. Left the restaurant and immediately started a 12 ish mile road walk!!! Wooooooo CARS!!! Yeah! I listened to Rasputin and danced like a dummy was fun. I wonder if I was over compensating cause I was worried about the mental tole of the road walk? Idk but probably 
 

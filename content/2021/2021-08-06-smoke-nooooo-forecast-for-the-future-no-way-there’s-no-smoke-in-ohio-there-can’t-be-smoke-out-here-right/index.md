@@ -9,6 +9,8 @@ totd: Totd talked with new people today they eventually asked the question “wh
   Canada wins was nice to hear
 miles: 1179.3
 date: 2021-08-06T01:31:44.379Z
+tags: 
+    - PCT
 ---
 Walked today (writing this post almost one month later.... one month minus a day so it’s not quite a month but it’s close haaaaa) woke up left the rest stop. Took a poo in a real bathroom that’s always nice. Hiked out..... not sure what happened but saw our first fire? Maybe it was the first idk if I’ve talked about a fire before sorry you know at Keith granola dot come we don’t edit (I really need to come up with new gags I keep using the same old stuff yup) old stuff is good though that’s why it’s the old stuff.
 

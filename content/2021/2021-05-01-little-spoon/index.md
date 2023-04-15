@@ -6,6 +6,8 @@ breakfast: Oatmeal
 lunch: Granola chips and tuna, yum not all together this time
 dinner: tortellini with some other food and things
 date: 2021-05-01T15:22:15.045Z
+tags: 
+    - PCT
 ---
 Got a trail name!!  It’s little spoon I love it!! Wooooo ramblin says I have little spoon energy in a big spoon body seems to check out.
 

@@ -10,6 +10,8 @@ breakfast: B oatmeal
 lunch: L soooooooo many snacks tooo many snacks
 dinner: D a lotta hot dogs! Thanks Doug and rich!!!! Y’all the best
 date: 2021-05-14T02:34:35.765Z
+tags: 
+    - PCT
 ---
 Woke up to do a 16 mile day not to bad! Took an amazing break on a wild rock train wreck had found.
 

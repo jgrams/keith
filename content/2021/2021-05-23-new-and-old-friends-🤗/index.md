@@ -11,6 +11,8 @@ breakfast: B legend made pancakes
 lunch: L beer and town food
 dinner: D beer and town food by beer I mean white claws
 date: 2021-05-23T04:17:44.691Z
+tags: 
+    - PCT
 ---
 Hung out at the general store making friends saw smooth again!! Was nice to see him again lol it’s nice to see everyone again
 

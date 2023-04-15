@@ -1,0 +1,50 @@
+@font-face {
+  src: url('/fonts/Inter-VariableFont_slnt,wght.ttf');
+  font-family: 'Inter';
+  font-style: normal;
+}
+
+@font-face {
+  src: url('/fonts/SourceSans3-VariableFont_wght.ttf');
+  font-family: 'SourceSans';
+  font-style: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 400;
+}
+
+body {
+  font-family: 'SourceSans', system-ui, sans-serif;
+  font-size: 1.4em;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2.5rem;
+}
+
+h4 {
+  font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.5rem;
+}
+
+h6 {
+  font-size: 1.25rem;
+}

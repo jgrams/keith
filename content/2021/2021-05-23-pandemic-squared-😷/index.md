@@ -9,6 +9,8 @@ lunch: L Filled pieces ,tortillas and peanut butter , cliff bars. Other food I
   was so hungry didn’t have enough oatmeal
 dinner: D cold soaked din din, rice with red sauce and salami boom next
 date: 2021-05-23T03:43:25.966Z
+tags: 
+    - PCT
 ---
 
 

@@ -1,6 +1,8 @@
 ---
 title: Had to get creative to tie down my tent
 date: 2021-03-25T20:51:31.356Z
+tags: 
+    - PCT
 ---
 The dirt next to my tent was so loose I had to tie my tent down to a bush.
 

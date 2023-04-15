@@ -1,6 +1,8 @@
 ---
 title: Unexploded ordinance trap
 date: 2021-03-23T21:38:16.177Z
+tags: 
+    - PCT
 ---
 Saw this unexploded ordinance sign right after there was a wide open area
 

@@ -2,6 +2,8 @@
 overrideDate: 2021-04-26T07:00:00.000Z
 title: I love my trail fam 😻
 date: 2021-04-29T02:56:07.328Z
+tags: 
+    - PCT
 ---
 They’re flipping me off kinda hard to see weird bug we fixing it. Way funnier with the image.
 

@@ -1,10 +1,10 @@
 {{- define "main" }}
-    <h1>{{ .Title }}</h1>
+    <h1 class="underline">{{ .Title }}</h1>
+    {{ $currentPage := . }}
     <div>{{ .Content }}</div>
-    <ul>
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-                {{ partial "menu-preview.html" . }}
-        {{ end }}
+    <h2 class="underline">Recent Posts</h2>
+    {{ range first 3 .Site.RegularPages }}
+            {{ partial "menu-preview.html" . }}
+    {{ end }}
     {{ partial "seemore.html" . }}
 {{- end }}

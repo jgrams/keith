@@ -4,6 +4,8 @@ title: Time warp!! Buiiizwwaaaap (that’s how time travel sounds
 totd: Catching up
 miles: 2148.1
 date: 2021-08-22T15:30:44.734Z
+tags: 
+    - PCT
 ---
 Boom almost to Washington!! Waiiiiiiiit I thought he wasn’t even done with Cali yet what happened to Oregon??????
 

@@ -6,6 +6,8 @@ totd: Totd floated a CNOC down a stream. It’s like a water bladder that helps
   me!!!
 miles: 741.7
 date: 2021-05-28T01:48:53.843Z
+tags: 
+    - PCT
 ---
 Climbed to like 10600 feet!! I thinks it’s the highest we’ve been! I also went number two up there tallest poo 💩I’ve taken yet. Hiked down through beautiful trees and things almost cried it was so perfect. Camped, smoked some clove cigs again then bed slow day but another great day I love it
 

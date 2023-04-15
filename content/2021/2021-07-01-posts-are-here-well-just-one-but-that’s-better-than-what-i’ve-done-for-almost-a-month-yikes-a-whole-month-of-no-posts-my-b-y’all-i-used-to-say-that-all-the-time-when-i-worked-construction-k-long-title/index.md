@@ -11,6 +11,8 @@ miles: 942.5
 breakfast: '{{< image src="94bc789a-7af6-4a4f-b783-433fb355cad8.jpeg" alt="Ate
   what ever this is" title="Ate what ever this is" >}}'
 date: 2021-07-01T02:35:41.781Z
+tags: 
+    - PCT
 ---
 Woke up at a beautiful lake called thousand island lakes or something woke up around 630 and hung for a couple hours. So I’m getting “better” at waking up early just not at leaving early lol oh well I’m loving it 🥰. Had a quick five mile climb then both out down hill. There are so many people on this Trail!! John Muir trail hikers  pct hikers and day hikers! It’s hard to keep up with who’s who! 
 

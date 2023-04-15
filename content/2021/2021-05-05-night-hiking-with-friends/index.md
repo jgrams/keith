@@ -6,6 +6,8 @@ breakfast: Not much
 lunch: SUSHI
 dinner: not much just snacking too much SUSHI!!
 date: 2021-05-05T18:02:16.346Z
+tags: 
+    - PCT
 ---
 Checked out of the hotel leaving ita little more pink than normal woops. Got sushi for lunch ish then Ubered to trail. Started hiking around four ish and hiked till midnight!!!! Wooo my first honest night hiking ,was really tiring.
 

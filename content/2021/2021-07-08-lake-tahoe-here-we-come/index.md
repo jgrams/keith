@@ -3,6 +3,8 @@ overrideDate: 2021-06-27T07:00:00.000Z
 title: Lake Tahoe here we come
 miles: 1046.5
 date: 2021-07-08T21:38:13.884Z
+tags: 
+    - PCT
 ---
 6/27/21
 

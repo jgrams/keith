@@ -7,6 +7,8 @@ breakfast: cold soaked polenta it’s alright, did make me vomit so that was wei
 lunch: nothing darn you Springs squirrels!! You win this round!!!
 dinner: a feast .
 date: 2021-04-22T04:32:32.287Z
+tags: 
+    - PCT
 ---
 Hung out with my old friend cid today, haven’t seen them in a while, was fun!
 

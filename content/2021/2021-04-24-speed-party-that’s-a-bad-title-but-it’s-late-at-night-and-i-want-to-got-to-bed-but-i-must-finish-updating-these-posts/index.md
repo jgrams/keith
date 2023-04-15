@@ -9,6 +9,8 @@ dinner: Those spicy rolled chips with tuna and a bunch of crackers with cheese
   in the snack pack things way too many my tummy hurt. I think they’re called
   takies or something the rolled chips not the cheese things k
 date: 2021-04-24T05:46:20.739Z
+tags: 
+    - PCT
 ---
 Started the day at a birthday party? Where am I lolololol. It was funfacts birthday so magicmarker got a cake with his picture and a whole buffet from Cracker Barrel!!! She’s an amazing person!! Most people out here are 👻
 

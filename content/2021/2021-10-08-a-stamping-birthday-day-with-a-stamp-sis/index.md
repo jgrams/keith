@@ -4,6 +4,8 @@ title: A stamping birthday day with a stamp sis
 totd: Who cares about the thing of the day it’s a stamps birthday!!! 🎉
 miles: 2653.3
 date: 2021-10-08T05:12:58.441Z
+tags: 
+    - PCT
 ---
 Happy birthday to one of the stamp sisters!! Don’t have a picture with them so hers a photo with one of the other stamp sis’s and some…… extras….. jkjkjk y’all aren’t extras in my life y’all the main cast!!  Love you
 

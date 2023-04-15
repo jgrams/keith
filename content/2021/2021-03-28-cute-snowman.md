@@ -1,6 +1,8 @@
 ---
 title: Cute snowman!
 date: 2021-03-24T20:22:31.559Z
+tags: 
+    - PCT
 ---
 Found this cute snowman near Mt Laguna
 

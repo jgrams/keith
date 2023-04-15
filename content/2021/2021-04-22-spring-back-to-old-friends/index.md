@@ -6,6 +6,8 @@ breakfast: Oatmeal
 lunch: cold soaked tortellini and granola. Not together that tortellini was a no
 dinner: cold soaked quinoa pretty good
 date: 2021-04-22T04:26:37.253Z
+tags: 
+    - PCT
 ---
 Long good day. Woke up pretty late started hiking around ten. I want to start hiking earlier so I can take long breaks through out the day. Means I have to wake up early soooooooooo .
 

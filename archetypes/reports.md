@@ -5,6 +5,8 @@ description: {{"description"}}
 miles: 0
 breakfast: {{"breakfast"}}
 lunch: {{"lunch"}}
-dinner: {{"dinner"}}
+dinner: {{"dinner"}}tags: 
+    - PCT
+
 ---
 

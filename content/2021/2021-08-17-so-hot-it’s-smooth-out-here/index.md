@@ -4,6 +4,8 @@ title: So hot it’s smooth out here
 totd: Love you smooth
 miles: 1207.3
 date: 2021-08-17T15:26:42.783Z
+tags: 
+    - PCT
 ---
 
 

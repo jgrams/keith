@@ -10,6 +10,8 @@ lunch: L steak fries from town were amazing. Ate them at hiker town and left my
 dinner: D nothing really? I snacked through the night hike but when we were done
   I was so tori just slept
 date: 2021-05-14T01:59:08.232Z
+tags: 
+    - PCT
 ---
 Night hiked along the LA aqueduct! It was an experience for sure haha we brought glow sticks and techno music had a little personal rave! 
 

@@ -6,6 +6,8 @@ totd: Today is two weeks after my second shot!! I’m good to
   towns we go into are real hit and miss with masks so it’s really nice to be
   good to goooooo LETSGOOOOOOO
 date: 2021-05-23T04:31:23.613Z
+tags: 
+    - PCT
 ---
 Ramblin wasn’t feeling well after the second shot so she stayed in the hotel while me and Casey wandered around town doing chores and going to museums! Was a lotta fun 👩‍🔬💁‍♂️ well not for ramblin probably 
 

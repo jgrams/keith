@@ -8,6 +8,8 @@ lunch: spam, peanut butter in a tortilla, trail mix, two cliff bars, chips... I
   lunch
 dinner: ramen Bomb!!!!!! That’s ramen potatoes and spam for the new readers
 date: 2021-05-05T18:10:18.494Z
+tags: 
+    - PCT
 ---
 Woke up late! Didn’t start hiking till 930 oh well. Was a long slow day I was getting passed by so many people meh fuck it. 
 

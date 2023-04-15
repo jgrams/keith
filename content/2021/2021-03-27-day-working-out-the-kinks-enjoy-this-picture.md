@@ -1,6 +1,8 @@
 ---
 title: "Day working out the kinks enjoy this picture "
 date: 2021-03-26T02:22:18.675Z
+tags: 
+    - PCT
 ---
 It’s a HUGE Pine cone!! Looked like something from the lord of the rings! Gotta get it to Mordor
 

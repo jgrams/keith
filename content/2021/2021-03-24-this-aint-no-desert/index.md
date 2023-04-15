@@ -6,6 +6,8 @@ miles: 37.1
 breakfast: Two oatmeal packets and one miso soup had from my tent cause it was raining
 lunch: Two oatmeal packets and one miso soup had from my tent cause it was raining
 dinner: Chicken packet with Mayo granola and assorted nuts mostly almonds. Cheddar broccoli soup with two packets of spam more nuts
+tags: 
+    - PCT
 ---
 ## Report for day 4
 

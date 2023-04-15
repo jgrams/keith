@@ -5,6 +5,8 @@ totd: td too a number two at the end of the day looked out in the distance from
   my poo spot and I could see the fireworks from Lake Tahoe
 miles: 1140.8
 date: 2021-07-24T19:24:02.383Z
+tags: 
+    - PCT
 ---
 The fourth!! Woop woop imma celebrate by WALKING my favorite activity. Walked with sand witch most of the day which is always fun 🤪
 

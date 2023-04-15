@@ -8,6 +8,8 @@ totd: Totd apparently there’s an Ohio accent!!! I say ass and some other words
   me 🥰🥰🥰
 miles: 728.1
 date: 2021-05-28T01:41:40.501Z
+tags: 
+    - PCT
 ---
 Woke up covered in ICE aight more like frost buuuuuuuuut was really cold non the less (what does that even mean? Sounds like it should fit right there) had to de ice and dry my stuff all morning good thing we have like ten miles to do today so we can chill in the AM. started hiking and Spotify decided that I didn’t download any of the music that I downloaded cool.
 

@@ -6,6 +6,8 @@ miles: 109
 breakfast: Oat meal and coffee!! Also peanut butter and almonds not in picture
 lunch: Two chicken packets, two carrots some peanut butter and a cliff bars
 dinner: Cheddar and broccoli rice with tuna...... and. Two carrots of course
+tags: 
+    - PCT
 ---
 
 Wore long pants and a short sleeve shirt. Was constantly putting on sun screen and still got burnt. Will be wearing a long sleeve shirt tomorrow.

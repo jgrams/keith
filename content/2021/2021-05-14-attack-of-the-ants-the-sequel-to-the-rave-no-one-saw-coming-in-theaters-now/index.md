@@ -9,6 +9,8 @@ totd: "if it’s up it’s stuck. Allllsssso cause that was a lazy thing of
   doing the same thing LOL those fucks"
 miles: 545.1
 date: 2021-05-14T02:09:45.521Z
+tags: 
+    - PCT
 ---
 Last night we didn’t quite make it to the bridge we wanted to go to so we had a couple miles to do in the am. Then sleep in the shade and night hike again!!
 

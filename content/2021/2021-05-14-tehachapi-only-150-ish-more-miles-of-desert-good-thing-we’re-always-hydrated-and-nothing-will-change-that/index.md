@@ -10,6 +10,8 @@ breakfast: B oatmeal
 lunch: L Thai food from thaihacapi fun name
 dinner: D bbq was delicious
 date: 2021-05-14T02:19:36.578Z
+tags: 
+    - PCT
 ---
 Woke up to a beautiful rendition of the world famous cardi b song if it’s up it’s stuck. Better than coffee at getting you going on the road.
 
