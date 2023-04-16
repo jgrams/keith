@@ -5,10 +5,10 @@ media_folder: static/images
 public_folder: /images
 logo_url: 'https://www.keithgramila.com/keith.png'
 collections:
-  - name: 'reports'
-    label: 'Day Report'
-    folder: 'content/{{year}}/{{slug}}'
-    path: '{{slug}}/index'
+  - name: 'posts'
+    label: 'Post'
+    folder: 'content'
+    path: '/{{year}}/{{slug}}/index'
     media_folder: ''
     public_folder: ''
     create: true
