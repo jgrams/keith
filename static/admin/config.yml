@@ -7,8 +7,8 @@ logo_url: 'https://www.keithgramila.com/keith.png'
 collections:
   - name: 'posts'
     label: 'Post'
-    folder: 'content'
-    path: 'posts/{{slug}}/index'
+    folder: 'content/posts/'
+    path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
     create: true
