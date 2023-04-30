@@ -8,5 +8,6 @@
     {{ template "_internal/opengraph.html" . }}
     {{- partial "vitalcss.html" -}}
     {{- partial "favicons.html" . -}}
+    <link rel="alternate" type="application/rss+xml" href="{{.Site.BaseURL }}/posts/index.xml" title="{{ .Site.Title }}">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
 </head>

@@ -1,11 +1,11 @@
 {{- define "main" }}
     <h1 class="underline">{{ .Title }}</h1>
     {{ $currentPage := . }}
-    <div>{{ .Content }}</div>
-    <h2 class="underline">Recent Posts</h2>
+    <h2>Recent Posts:</h2>
     {{ range first 3 .Site.RegularPages }}
             {{ partial "menu-preview.html" . }}
     {{ end }}
+    <div>{{ .Content }}</div>
     {{ partial "seemore.html" . }}
     <script>
         if (window.netlifyIdentity) {

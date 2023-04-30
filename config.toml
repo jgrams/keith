@@ -1,12 +1,12 @@
 baseURL = "https://www.keithgramila.com/"
 languageCode = "en-us"
-title = "KPG Pacific Crest Trail"
+title = "KPG, Hiking the Trail of Life"
 theme = "base"
 timeout = 180000
 [params]
     button = "Go Home"
-    description = "Through-hiking the Pacific Crest Trail in 2021. Gear and vibes."
+    description = "Through-hiking the Pacific Crest Trail and now doing other stuff. Gear and vibes. Now mostly just vibes."
     images = ["keith.png"]
     buttonLink = "/"
 [imaging]
-    quality = 95
+    quality = 100
