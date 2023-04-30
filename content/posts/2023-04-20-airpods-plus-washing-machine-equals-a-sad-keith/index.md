@@ -1,5 +1,6 @@
 ---
 title: AirPods plus washing machine equals a sad keith
+date: 2023-04-20T05:12:58.441Z
 ---
 Yesterday I washed my AirPods in my sweatpants pocket lol darn!!! at first the right noise canceling didn’t work it’s been slowly getting better. Hopefully They are fine idk
 
