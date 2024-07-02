@@ -2,7 +2,7 @@
     <h1>{{ .Title }}</h1>
     <div>{{ .Content }}</div>
         {{ range .Pages.ByDate.Reverse }}
-            {{ partial "preview.html" . }}
+            {{ partial "menu-preview.html" . }}
         {{ end }}
     {{ partial "seemore.html" . }}
 {{- end }}
