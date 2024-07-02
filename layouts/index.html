@@ -8,6 +8,11 @@
     {{ range first 3 .Site.RegularPages }}
             {{ partial "menu-preview.html" . }}
     {{ end }}
+    {{ with .Site.GetPage "section" "posts" }}
+      <a href="{{ .RelPermalink }}">
+        <button>See All {{ .Title }}</button>
+      </a>
+    {{ end }}
     <div>{{ .Content }}</div>
     {{ partial "seemore.html" . }}
     <script>

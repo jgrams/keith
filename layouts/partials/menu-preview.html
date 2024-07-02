@@ -2,5 +2,11 @@
     <a href="{{ .RelPermalink }}">
         <h2>{{ .Title }}</h2>
     </a>
+    <div class="mb-sm bold">{{ if .Params.eventDate }}
+        {{ .Params.eventDate | time.Format ":date_short" }}      
+{{ else if .Params.date }}
+{{ .Params.date | time.Format ":date_short" }} 
+{{ end }}
+</div>
     <div class="summary">{{ .Page.Summary }}</div>
 </article>
