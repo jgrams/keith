@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-05T07:00:00.000Z
+eventDate: 2021-05-05T07:00:00.000Z
 title: Auqa rave!!
 totd: "Someone behind us ate alot of a weird fungi and kept asking us if
   we were real. Am I real?? Yes Keith/little spoon you are real."

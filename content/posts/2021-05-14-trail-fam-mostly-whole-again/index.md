@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-10T07:00:00.000Z
+eventDate: 2021-05-10T07:00:00.000Z
 title: Trail fam mostly whole again!!
 totd: "they were doing construction on some wind farms. When I came out of
   the trail to cross their job site I was like “oh it’s my constitution people”

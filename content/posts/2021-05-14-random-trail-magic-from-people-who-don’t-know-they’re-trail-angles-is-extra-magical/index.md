@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-11T07:00:00.000Z
+eventDate: 2021-05-11T07:00:00.000Z
 title: Random trail magic from people who don’t know they’re trail angles is
   extra magical
 totd: "Dougs roommate actually rowed at my high school with my brother!!

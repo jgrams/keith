@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-19T07:00:00.000Z
+eventDate: 2021-05-19T07:00:00.000Z
 title: New and old friends 🤗
 totd: "Totd: that hug.    Oh and in the morning at breakfast I hung out with
   legend and ate pancakes! He got a little deep asking why I dyed my hair and

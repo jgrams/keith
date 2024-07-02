@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-22T07:00:00.000Z
+eventDate: 2021-05-22T07:00:00.000Z
 title: Town day. Caught up with posts now bed
 totd: Today is two weeks after my second shot!! I’m good to
   goooooooooo.   Honestly they hikers are not very socially distanced and these

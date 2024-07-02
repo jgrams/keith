@@ -1,5 +1,5 @@
 ---
-overrideDate: ""
+eventDate: ""
 title: "KEITH GRAMILA DOT COM REDACTION APOLOGIES TO ALL MY FANS "
 date: 2021-04-24T14:17:36.094Z
 tags: 

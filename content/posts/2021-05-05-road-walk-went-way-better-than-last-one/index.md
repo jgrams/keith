@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-04T07:00:00.000Z
+eventDate: 2021-05-04T07:00:00.000Z
 title: Road walk went way better than last one
 miles: 517.6
 breakfast: Amazing omelette

@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-06-26T07:00:00.000Z
+eventDate: 2021-06-26T07:00:00.000Z
 title: "Title "
 totd: ""
 miles: 1026.9

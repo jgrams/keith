@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-07T07:00:00.000Z
+eventDate: 2021-05-07T07:00:00.000Z
 title: Tehachapi only 150 ish more miles of desert good thing we’re always
   hydrated and nothing will change that!!!
 totd: "Lux found out I was going to Bakersfield the next morning to get my

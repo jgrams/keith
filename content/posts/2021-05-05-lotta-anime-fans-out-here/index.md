@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-04T07:00:00.000Z
+eventDate: 2021-05-04T07:00:00.000Z
 title: Lotta Anime fans out here
 date: 2021-05-05T18:33:09.065Z
 tags: 

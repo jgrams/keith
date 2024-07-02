@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-06-21T07:00:00.000Z
+eventDate: 2021-06-21T07:00:00.000Z
 title: Shenanigans and moscitos no big deal
 totd: No totd for today sorry fans
 miles: 947.9

@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-08-12T07:00:00.000Z
+eventDate: 2021-08-12T07:00:00.000Z
 title: Day after crater lake….. aka smoke es vile
 totd: "TOTD: pretty much this whole trail every time I I would P so people
   behind me wouldn’t see me peeing but keep people coming the other way so

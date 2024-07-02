@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-04-19T07:00:00.000Z
+eventDate: 2021-04-19T07:00:00.000Z
 title: Best watermelon ever
 mainImage: 56521b6f-d252-4377-8e64-1ba04ad9ba80.jpeg
 date: 2021-04-22T14:53:05.443Z

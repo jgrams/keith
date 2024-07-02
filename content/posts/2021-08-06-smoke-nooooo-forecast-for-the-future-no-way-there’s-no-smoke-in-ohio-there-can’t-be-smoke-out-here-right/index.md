@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-07-06T07:00:00.000Z
+eventDate: 2021-07-06T07:00:00.000Z
 title: SMOKE NOOOOO forecast for the future? No way there’s no smoke in OHio
   there can’t be smoke out here right?
 totd: Totd talked with new people today they eventually asked the question “when

@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-04-26T07:00:00.000Z
+eventDate: 2021-04-26T07:00:00.000Z
 title: I love my trail fam 😻
 date: 2021-04-29T02:56:07.328Z
 tags: 

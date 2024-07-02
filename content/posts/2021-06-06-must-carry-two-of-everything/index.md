@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-31T07:00:00.000Z
+eventDate: 2021-05-31T07:00:00.000Z
 title: "Must carry two of everything "
 totd: "Totd: when we got back to trail there was a park ranger stamping permits
   with the date (the pct permit only allows you to take so long in the Sierras

@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-04T07:00:00.000Z
+eventDate: 2021-05-04T07:00:00.000Z
 title: "512 in hex!!!!! "
 date: 2021-05-05T18:30:11.205Z
 tags: 

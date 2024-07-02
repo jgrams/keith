@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-21T07:00:00.000Z
+eventDate: 2021-05-21T07:00:00.000Z
 title: Covid vaccines for everyone!! You get a vax you get a vax you get a vax
   YOUGETAVAX
 totd: "Vaccines "

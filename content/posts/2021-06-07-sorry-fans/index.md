@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-06-06T07:00:00.000Z
+eventDate: 2021-06-06T07:00:00.000Z
 title: "Sorry fans "
 date: 2021-06-07T04:20:13.776Z
 tags: 

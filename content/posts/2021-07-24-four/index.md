@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-07-04T07:00:00.000Z
+eventDate: 2021-07-04T07:00:00.000Z
 title: Four?
 totd: td too a number two at the end of the day looked out in the distance from
   my poo spot and I could see the fireworks from Lake Tahoe

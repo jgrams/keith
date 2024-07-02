@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-04-18T07:00:00.000Z
+eventDate: 2021-04-18T07:00:00.000Z
 miles: 307.9
 title: Spring back to old friends!
 breakfast: Oatmeal

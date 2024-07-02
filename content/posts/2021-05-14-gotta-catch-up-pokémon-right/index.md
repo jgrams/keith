@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-09T07:00:00.000Z
+eventDate: 2021-05-09T07:00:00.000Z
 title: Gotta catch up! Pokémon!!! Right?
 totd: Fuck you wind
 miles: 572.9

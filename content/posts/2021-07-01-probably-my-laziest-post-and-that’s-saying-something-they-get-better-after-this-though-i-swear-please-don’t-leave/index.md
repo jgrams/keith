@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-06-22T07:00:00.000Z
+eventDate: 2021-06-22T07:00:00.000Z
 title: Probably my laziest post and that’s saying something. They get better
   after this though I swear please don’t leave
 totd: Totd At lunch on a huuuuuge rock on the edge of a meadow was amazing can’t

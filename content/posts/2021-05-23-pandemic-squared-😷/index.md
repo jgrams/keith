@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-16T07:00:00.000Z
+eventDate: 2021-05-16T07:00:00.000Z
 title: Pandemic squared 😷
 totd: "Totd: heard this loud boom in the middle of no where guess that was
   pretty eventful lol was loud and scary k"

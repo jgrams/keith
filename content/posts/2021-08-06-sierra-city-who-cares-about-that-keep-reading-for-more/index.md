@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-07-07T07:00:00.000Z
+eventDate: 2021-07-07T07:00:00.000Z
 title: Sierra city? Who cares about that keep reading for more
 totd: "RAMBLIN ROSE IS BACK BOOOOOOOOM duh 👩‍🚒💃🌹🥮🦁💪👩‍💻 those are the
   emojis I would use if someone asked me to describe ramblin in emoji so there

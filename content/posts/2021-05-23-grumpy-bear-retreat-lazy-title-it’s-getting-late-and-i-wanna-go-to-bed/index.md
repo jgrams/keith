@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-20T07:00:00.000Z
+eventDate: 2021-05-20T07:00:00.000Z
 title: Grumpy bear retreat lazy title it’s getting late and I wanna go to bed
 totd: Totd heard from a gear outfitter that western mountaineering was 5000
   orders behind on their sleeping bags. So glad I got one of them before all

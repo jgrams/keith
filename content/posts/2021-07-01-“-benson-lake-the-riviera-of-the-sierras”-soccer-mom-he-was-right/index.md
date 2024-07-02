@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-06-23T07:00:00.000Z
+eventDate: 2021-06-23T07:00:00.000Z
 title: “ benson lake the riviera of the sierras” - soccer mom.... he was right!
 totd: Totd benson lake duh it was amazing and so glad soccer mom dropped that
   insight into our brains to go check it out

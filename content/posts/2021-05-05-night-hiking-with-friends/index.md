@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-02T07:00:00.000Z
+eventDate: 2021-05-02T07:00:00.000Z
 title: "Night hiking with friends "
 miles: 468.2
 breakfast: Not much

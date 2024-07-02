@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-04-16T07:00:00.000Z
+eventDate: 2021-04-16T07:00:00.000Z
 miles: 259.4
 title: Speed
 breakfast: Oatmeal and nuts

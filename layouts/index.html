@@ -1,3 +1,6 @@
+{{ define "pageHead" }}
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{{ end }}
 {{- define "main" }}
     <h1 class="underline">{{ .Title }}</h1>
     {{ $currentPage := . }}

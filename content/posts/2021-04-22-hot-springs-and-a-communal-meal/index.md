@@ -1,5 +1,5 @@
 ---
-overrideDate: ""
+eventDate: ""
 miles: 307.9
 title: Hot springs and a communal meal
 breakfast: cold soaked polenta it’s alright, did make me vomit so that was weird

@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-07-02T07:00:00.000Z
+eventDate: 2021-07-02T07:00:00.000Z
 title: "Posts incoming? I’m like a month behind LOL I’m the worst sorry all my
   fans ActuAl title: new friends new lakes same adventure?"
 totd: Met someone named weasel duck (auto correct but you can figure that one

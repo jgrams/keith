@@ -1,7 +1,7 @@
 {{ $start := "2021-03-20T00:00:00.00Z" | time }}
 {{ $now := .Params.date | time }}
-{{ if .Params.overrideDate }}
-    {{ $now = .Params.overrideDate | time }}
+{{ if .Params.eventDate }}
+    {{ $now = .Params.eventDate | time }}
 {{ end }}
 {{ $diff := $now.Sub $start }}
 {{ $days := int (div $diff.Hours 24) }}

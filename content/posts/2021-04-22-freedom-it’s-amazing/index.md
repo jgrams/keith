@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-04-17T07:00:00.000Z
+eventDate: 2021-04-17T07:00:00.000Z
 miles: 285.6
 title: "Freedom it’s amazing "
 breakfast: polenta with cherries

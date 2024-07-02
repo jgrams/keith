@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-26T07:00:00.000Z
+eventDate: 2021-05-26T07:00:00.000Z
 title: "We getting pretty high in elevation up in hur "
 totd: Totd floated a CNOC down a stream. It’s like a water bladder that helps
   with filtering water. Was funny you had to be there. You should’ve come with

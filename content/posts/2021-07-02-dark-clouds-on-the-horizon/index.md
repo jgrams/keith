@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-06-24T07:00:00.000Z
+eventDate: 2021-06-24T07:00:00.000Z
 title: "Dark clouds on the horizon "
 totd: So far I’ve been hail on and rained on the same amount. Twice for both.
   I’ve been out here for three months.... it really never rains in Cali haha.

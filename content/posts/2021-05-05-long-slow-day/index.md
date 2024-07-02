@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-03T07:00:00.000Z
+eventDate: 2021-05-03T07:00:00.000Z
 title: Long slow day
 miles: 485.8
 breakfast: Oatmeal

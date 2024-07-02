@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-06T07:00:00.000Z
+eventDate: 2021-05-06T07:00:00.000Z
 title: Attack of the ants!! The sequel to the rave no one saw coming!!!! In
   theaters now!
 totd: "if it’s up it’s stuck. Allllsssso cause that was a lazy thing of

@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-01T07:00:00.000Z
+eventDate: 2021-05-01T07:00:00.000Z
 title: Love you trail fam!
 date: 2021-05-05T18:39:35.071Z
 tags: 

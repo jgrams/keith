@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-04-24T07:00:00.000Z
+eventDate: 2021-04-24T07:00:00.000Z
 miles: 377.9
 title: Cabins to buds
 breakfast: Town food

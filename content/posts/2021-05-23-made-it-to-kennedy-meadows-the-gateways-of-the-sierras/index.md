@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-18T07:00:00.000Z
+eventDate: 2021-05-18T07:00:00.000Z
 title: Made it to Kennedy Meadows!! The gateways of the Sierras!!!
 totd: Totd:  did two 29 mile days back to back!! Feels good now to wait for my
   trail fam to catch up and chill with them in Kennedy Meadows before entering

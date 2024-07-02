@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-09-17T07:00:00.000Z
+eventDate: 2021-09-17T07:00:00.000Z
 title: How wet and cold? Figured it out!
 totd: "Totd: it was cold don’t hike into a storm without the right gear it’s
   dangerous. I would be lying if I wasn’t scared a couple of times but the

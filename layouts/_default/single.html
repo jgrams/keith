@@ -1,5 +1,12 @@
 {{- define "main" }}
     <h1>{{.Title}}</h1>
+    <h3 class="totd">
+        {{ if .Params.eventDate }}
+            {{ .Params.eventDate | time.Format ":date_medium" }}
+        {{ else if .Params.date }}
+            {{ .Params.date | time.Format ":date_medium" }}
+        {{ end }}
+    </h3>
     {{ .Content }}
     {{ partial "technical.html" . }}
     <div class="flex justify center">

@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-23T07:00:00.000Z
+eventDate: 2021-05-23T07:00:00.000Z
 title: First sour conversation with someone. Pretty good that it took two months
   though
 totd: Totd did my first bear hang tonight.... in a national forest that requires

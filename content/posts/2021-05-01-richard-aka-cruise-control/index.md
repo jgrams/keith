@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-04-30T07:00:00.000Z
+eventDate: 2021-04-30T07:00:00.000Z
 miles: 454.4
 title: RICHARD aka cruise control!!
 breakfast: polenta cold... meh wasn’t that good gotta figure out how to cold

@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-04-30T07:00:00.000Z
+eventDate: 2021-04-30T07:00:00.000Z
 title: Vs day 1
 date: 2021-05-01T18:28:27.605Z
 tags: 

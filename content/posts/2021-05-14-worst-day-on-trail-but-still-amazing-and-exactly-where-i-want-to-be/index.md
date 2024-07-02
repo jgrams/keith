@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-12T07:00:00.000Z
+eventDate: 2021-05-12T07:00:00.000Z
 title: Worst day on trail but still amazing and exactly where I want to be
 totd: "before the day took a turn ramblin said the sweetest thing I’ve
   heard in a long time. Her husband relates the smell of her B O with the time

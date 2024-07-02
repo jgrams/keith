@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-07-08T07:00:00.000Z
+eventDate: 2021-07-08T07:00:00.000Z
 title: So hot it’s smooth out here
 totd: Love you smooth
 miles: 1207.3

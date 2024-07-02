@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-14T07:00:00.000Z
+eventDate: 2021-05-14T07:00:00.000Z
 title: Lavender town vibes
 totd: Totd we used bleach to clean our water purification things per the sawyer
   squeeze instructions.... some silly guy accidentally bought lavender bleach.

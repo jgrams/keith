@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-06-20T07:00:00.000Z
+eventDate: 2021-06-20T07:00:00.000Z
 title: Yo Semite oh wait I mean Yosemite...who could be that dumb to miss
   pronounce our nations greatest park. It’s beautiful down there. Is it down
   you ask? For me yes! I was a billion feet higher the day before

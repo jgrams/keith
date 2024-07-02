@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-10-07T07:00:00.000Z
+eventDate: 2021-10-07T07:00:00.000Z
 title: A stamping birthday day with a stamp sis
 totd: Who cares about the thing of the day it’s a stamps birthday!!! 🎉
 miles: 2653.3

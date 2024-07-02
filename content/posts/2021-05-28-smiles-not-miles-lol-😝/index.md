@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-24T07:00:00.000Z
+eventDate: 2021-05-24T07:00:00.000Z
 title: "Smiles not miles lol 😝 "
 totd: Totd cool    Was told that I say cool pronounced like coup kinda like I’m
   just saying the c and the o when I don’t care about something/don’t agree with

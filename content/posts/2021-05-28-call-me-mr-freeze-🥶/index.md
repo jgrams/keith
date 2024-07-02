@@ -1,5 +1,5 @@
 ---
-overrideDate: 2021-05-25T07:00:00.000Z
+eventDate: 2021-05-25T07:00:00.000Z
 title: "Call me Mr freeze 🥶 "
 totd: Totd apparently there’s an Ohio accent!!! I say ass and some other words
   weird. Also when I meet new people or just say hello I add o’s to the end like
